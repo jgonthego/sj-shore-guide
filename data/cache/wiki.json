@@ -1,0 +1,485 @@
+{
+ "Lucy the Elephant": {
+  "extract": "Lucy the Elephant is a six-story elephant-shaped wood frame and tin clad building, constructed in 1881 by James V. Lafferty in Margate City, New Jersey. Lucy was built with the purpose of promoting real estate sales and attracting tourists to the area. Today, Lucy remains the oldest surviving roadside tourist attraction in the US.",
+  "url": "https://en.wikipedia.org/wiki/Lucy_the_Elephant",
+  "title": "Lucy the Elephant",
+  "qid": "Q1873754",
+  "official": null,
+  "type": "standard"
+ },
+ "META|https://www.lucytheelephant.org/": {
+  "desc": "Lucy the Elephant is a six story high National Historic Landmark located along the beach in Margate, New Jersey.",
+  "status": 200
+ },
+ "Absecon Lighthouse": {
+  "extract": "The Absecon Lighthouse is a coastal lighthouse located in the north end of Atlantic City, New Jersey, overlooking Absecon Inlet. At 171 feet (52 m) it is the tallest lighthouse in the state of New Jersey and the third-tallest masonry lighthouse in the United States.",
+  "url": "https://en.wikipedia.org/wiki/Absecon_Lighthouse",
+  "title": "Absecon Lighthouse",
+  "qid": "Q4669685",
+  "official": "https://abseconlighthouse.org",
+  "type": "standard"
+ },
+ "META|https://abseconlighthouse.org": {
+  "desc": null,
+  "status": 200
+ },
+ "Steel Pier": {
+  "extract": "The Steel Pier is a 1,000-foot-long (300 m) amusement park built on a pier of the boardwalk in Atlantic City, New Jersey, across from the Hard Rock Hotel & Casino Atlantic City. Built in 1897 and opened in 1898, it was one of the most popular venues in the United States for the first seven decades of the twentieth century, featuring concerts, exhibits, and an amusement park. It billed itself as the Showplace of the Nation and at its peak measured 2,298 feet (700 m).",
+  "url": "https://en.wikipedia.org/wiki/Steel_Pier",
+  "title": "Steel Pier",
+  "qid": "Q1455092",
+  "official": "http://www.steelpier.com/",
+  "type": "standard"
+ },
+ "META|http://www.steelpier.com/": {
+  "desc": null,
+  "status": "<urlopen error timed out>"
+ },
+ "Atlantic City Boardwalk": {
+  "extract": "The Atlantic City Boardwalk is an oceanfront boardwalk in Atlantic City, New Jersey, United States. Opened in 1870, it is the oldest, longest, and busiest boardwalk in the world.",
+  "url": "https://en.wikipedia.org/wiki/Atlantic_City_Boardwalk",
+  "title": "Atlantic City Boardwalk",
+  "qid": "Q111491950",
+  "official": null,
+  "type": "standard"
+ },
+ "Boardwalk Hall": {
+  "extract": "Jim Whelan Boardwalk Hall, formerly known as the Historic Atlantic City Convention Hall, is a multi-purpose indoor arena in Atlantic City, New Jersey. Built from 1926 to 1929, it was Atlantic City's primary convention center until the opening of the new Atlantic City Convention Center in 1997. Boardwalk Hall was declared a U.S. National Historic Landmark in 1987 as one of the few surviving buildings from the city's early heyday as a seaside resort.",
+  "url": "https://en.wikipedia.org/wiki/Boardwalk_Hall",
+  "title": "Boardwalk Hall",
+  "qid": "Q887566",
+  "official": "http://www.boardwalkhall.com/",
+  "type": "standard"
+ },
+ "META|http://www.boardwalkhall.com/": {
+  "desc": null,
+  "status": "<urlopen error timed out>"
+ },
+ "Edwin B. Forsythe National Wildlife Refuge": {
+  "extract": "The Edwin B. Forsythe National Wildlife Refuge is a U.S. National Wildlife Refuge located in southern and south-central New Jersey, along the Atlantic coast, north of Atlantic City, in Atlantic and Ocean counties. The refuge was created in 1984 out of two existing refuge parcels created to protect tidal wetland and shallow bay habitat for migratory water birds. The Barnegat Division is located in Ocean County on the inland side of Barnegat Bay. The Brigantine Division is located approximately 10 miles (16 km) north of Atlantic City along the south bank of the mouth of the Mullica River. The two divisions are separated by approximately 20 miles (32 km). The refuge is located along most active flight paths of the Atlantic Flyway, making it an important link in the network of national wildlife refuges administered nationwide by the U.S. Fish and Wildlife Service. Forsythe Refuge is a part of the Hudson River/New York Bight Ecosystem and The New Jersey Coastal Heritage Trail Route. The refuge is named for Edwin B. Forsythe, conservationist Congressman from New Jersey. The refuge was named as a Ramsar Site of international importance in 1986.",
+  "url": "https://en.wikipedia.org/wiki/Edwin_B._Forsythe_National_Wildlife_Refuge",
+  "title": "Edwin B. Forsythe National Wildlife Refuge",
+  "qid": "Q5346225",
+  "official": "https://www.fws.gov/refuge/edwin_b_forsythe",
+  "type": "standard"
+ },
+ "META|https://www.fws.gov/refuge/edwin-b-forsythe": {
+  "desc": "Edwin B. Forsythe National Wildlife Refuge protects more than 48,000 acres of southern New Jersey coastal habitats. More than 82 percent of Forsythe refuge is wetlands, of which 78 percent is salt marsh, interspersed with shallow coves and bays. The refuge’s location in one of the Atlantic Flyway’s most active flight paths makes it an important link in seasonal bird migration.",
+  "status": 200
+ },
+ "Smithville, Atlantic County, New Jersey": {
+  "extract": "Smithville is an unincorporated community and census-designated place (CDP) located within Galloway Township, in Atlantic County, in the U.S. state of New Jersey, that was established as part of the 2010 United States census. Smithville is located 15 miles (24 km) north of and inland from Atlantic City. As of the 2010 Census, the CDP's population was 7,242.",
+  "url": "https://en.wikipedia.org/wiki/Smithville%2C_Atlantic_County%2C_New_Jersey",
+  "title": "Smithville, Atlantic County, New Jersey",
+  "qid": "Q11227668",
+  "official": "http://www.SmithvilleNJ.com/",
+  "type": "standard"
+ },
+ "META|http://www.SmithvilleNJ.com/": {
+  "desc": null,
+  "status": "<urlopen error timed out>"
+ },
+ "Renault Winery": {
+  "extract": "Renault Winery is a winery located in Egg Harbor City and Galloway Township in Atlantic County, New Jersey. It is the oldest active winery in the state in New Jersey. Renault is one of the larger winegrowers in New Jersey, having 48 acres of grapes under cultivation, and producing 20,000 cases of wine per year. The winery is named after its founder.",
+  "url": "https://en.wikipedia.org/wiki/Renault_Winery",
+  "title": "Renault Winery",
+  "qid": "Q7312750",
+  "official": "http://www.renaultwinery.com/",
+  "type": "standard"
+ },
+ "META|http://www.renaultwinery.com/": {
+  "desc": null,
+  "status": "<urlopen error timed out>"
+ },
+ "Storybook Land (New Jersey)": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "META|https://storybookland.com/": {
+  "desc": "Storybook Land | is a local amusement park that provides a fantasy themed park experience in Egg Harbor Township, NJ. Call (609) 646-0103 to learn more today!",
+  "status": 200
+ },
+ "META|https://hiddensands.com/": {
+  "desc": "Hidden Sands Brewing Company is a South Jersey craft brewery where beer is brewed with depth.",
+  "status": 200
+ },
+ "Somers Mansion": {
+  "extract": "Somers Mansion is a historic house at Shore Road and Somers Point Circle in Somers Point, New Jersey, United States.",
+  "url": "https://en.wikipedia.org/wiki/Somers_Mansion",
+  "title": "Somers Mansion",
+  "qid": "Q7559779",
+  "official": null,
+  "type": "standard"
+ },
+ "Marine Mammal Stranding Center": {
+  "extract": "The Marine Mammal Stranding Center is a private non-profit organization located in Brigantine, New Jersey. The Marine Mammal Stranding Center's mission is to rescue, rehabilitate, and release stranded marine mammals and sea turtles. They are the only Federally-authorize marine mammal rescue and rehabilitation hospital in New Jersey. Since 1978, the Marine Mammal Stranding Center has responded to more than 6,325 whales, dolphins, seals, and sea turtles in distress along the New Jersey coastline.",
+  "url": "https://en.wikipedia.org/wiki/Marine_Mammal_Stranding_Center",
+  "title": "Marine Mammal Stranding Center",
+  "qid": "Q6764167",
+  "official": "http://www.marinemammalstrandingcenter.org/",
+  "type": "standard"
+ },
+ "META|http://www.marinemammalstrandingcenter.org/": {
+  "desc": null,
+  "status": "<urlopen error timed out>"
+ },
+ "META|https://www.tuntavern.com": {
+  "desc": null,
+  "status": 200
+ },
+ "Cape May Light": {
+  "extract": "The Cape May Lighthouse is a lighthouse located in the U.S. state of New Jersey at the tip of Cape May, in Lower Township's Cape May Point State Park. It was built in 1859 under the supervision of U.S. Army engineer William F. Raynolds, was automated in 1946, and continues operation to this day.",
+  "url": "https://en.wikipedia.org/wiki/Cape_May_Lighthouse",
+  "title": "Cape May Lighthouse",
+  "qid": "Q5034933",
+  "official": null,
+  "type": "standard"
+ },
+ "Cape May Point State Park": {
+  "extract": "Cape May Point State Park is a 244 acres (0.99 km2) state park located in Lower Township, New Jersey, with a Cape May Point postal address. The park offers walking, hiking and nature trails as well as beaches, an exhibit gallery, a ranger office and is the site of the Cape May Light. The park is operated and maintained by the New Jersey Division of Parks and Forestry.",
+  "url": "https://en.wikipedia.org/wiki/Cape_May_Point_State_Park",
+  "title": "Cape May Point State Park",
+  "qid": "Q5034936",
+  "official": "http://www.state.nj.us/dep/parksandforests/parks/capemay.html",
+  "type": "standard"
+ },
+ "META|http://www.state.nj.us/dep/parksandforests/parks/capemay.html": {
+  "desc": null,
+  "status": "<urlopen error timed out>"
+ },
+ "Emlen Physick Estate": {
+  "extract": "The Emlen Physick Estate is a Victorian house museum in Cape May, New Jersey. The estate is located at 1048 Washington Street.",
+  "url": "https://en.wikipedia.org/wiki/Emlen_Physick_Estate",
+  "title": "Emlen Physick Estate",
+  "qid": "Q5372658",
+  "official": null,
+  "type": "standard"
+ },
+ "Cape May County Park & Zoo": {
+  "extract": "The Cape May County Park & Zoo in the Cape May Court House section of Middle Township, New Jersey, provides free year-round admission to a collection of more than 550 animals representing 250 species in 85 acres (34 ha) of exhibits. The zoo is located at 707 U.S. Route 9 North, in the center of Cape May County's Central Park. Together, the zoo and the park cover about 220 acres (89 ha). The zoo began operation in 1978. Its principal exhibit areas are a 57-acre (23 ha) African Savanna, a free-flight aviary, and a reptile collection.",
+  "url": "https://en.wikipedia.org/wiki/Cape_May_County_Park_%26_Zoo",
+  "title": "Cape May County Park & Zoo",
+  "qid": "Q5034928",
+  "official": "https://www.capemaycountynj.gov/1008/Park-Zoo",
+  "type": "standard"
+ },
+ "META|https://www.capemaycountynj.gov/1008/Park-Zoo": {
+  "desc": "Learn information about the Zoo.",
+  "status": 200
+ },
+ "The Wetlands Institute": {
+  "extract": "The Wetlands Institute is a non-profit organization started in 1969 by the executive director of WWF, Herbert Mills. The Wetlands Institute sits on 6,000 acres (24 km2) of protected wetlands in Stone Harbor, New Jersey. It hosts educational tours and courses and is a base for research on wetlands ecology.",
+  "url": "https://en.wikipedia.org/wiki/The_Wetlands_Institute",
+  "title": "The Wetlands Institute",
+  "qid": "Q7774350",
+  "official": "http://wetlandsinstitute.org/",
+  "type": "standard"
+ },
+ "META|https://wetlandsinstitute.org/": {
+  "desc": "Studying, preserving and protecting wetlands and coastal ecosystems. Fun interactive educational nature exploration and discovery experience for all ages.",
+  "status": 200
+ },
+ "Stone Harbor Bird Sanctuary": {
+  "extract": "Stone Harbor Bird Sanctuary is a 21.5-acre (8.7 ha) bird sanctuary and nature preserve in Stone Harbor, Cape May County, New Jersey. It was created in 1947 by local ordinance. It was designated a National Natural Landmark in October 1965, the first in New Jersey.",
+  "url": "https://en.wikipedia.org/wiki/Stone_Harbor_Bird_Sanctuary",
+  "title": "Stone Harbor Bird Sanctuary",
+  "qid": "Q7618947",
+  "official": null,
+  "type": "standard"
+ },
+ "META|https://stoneharbornj.org/community-interest/stone-harbor-point/": {
+  "desc": "Welcome To Stone Harbor Point Natural Conservation Area\r\nStone Harbor Point is a very special place.  It’s a designated conservation area and because of this, its uses are limited. It is not a beach for swimming, landing your boat for a picnic, or walking your dog.  It is a place to enjoy nature",
+  "status": 200
+ },
+ "Morey's Piers": {
+  "extract": "Morey's Piers & Beachfront Waterparks is a seaside amusement park located on The Wildwoods' boardwalk in Wildwood and North Wildwood, New Jersey. The park has been family owned and operated since 1969 and was run by second generation Morey Brothers, Will and Jack. Morey's Piers has more than 100 rides and attractions across its three amusement piers and two beachfront waterparks.",
+  "url": "https://en.wikipedia.org/wiki/Morey's_Piers",
+  "title": "Morey's Piers",
+  "qid": "Q3323943",
+  "official": "http://www.moreyspiers.com/",
+  "type": "standard"
+ },
+ "META|http://www.moreyspiers.com/": {
+  "desc": null,
+  "status": "<urlopen error timed out>"
+ },
+ "META|https://www.moreyspiers.com/water-parks/raging-waters-water-park": {
+  "desc": null,
+  "status": 404
+ },
+ "META|https://www.moreyspiers.com/water-parks/ocean-oasis-water-park-beach-club": {
+  "desc": null,
+  "status": 404
+ },
+ "Hereford Inlet Light": {
+  "extract": "The Hereford Inlet Lighthouse is a historic lighthouse located in North Wildwood, New Jersey, situated on the southern shore of Hereford Inlet at the north end of Five Mile Beach. Its construction was completed and it became operational in 1874.",
+  "url": "https://en.wikipedia.org/wiki/Hereford_Inlet_Lighthouse",
+  "title": "Hereford Inlet Lighthouse",
+  "qid": "Q5737997",
+  "official": "https://herefordinletlighthouse.com/",
+  "type": "standard"
+ },
+ "META|https://herefordinletlighthouse.com/": {
+  "desc": "The Hereford Inlet Lighthouse was built in 1874 and is the most important historic structure on Five Mile Beach. The Lighthouse is open to the public and continues to function as an active navigational aid maintained by the United States Coast Guard. Visitors to the Lighthouse will learn about the history of the",
+  "status": 200
+ },
+ "META|https://www.doowopusa.org/": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://willowcreekwinerycapemay.com/": {
+  "desc": "Visit Willow Creek Winery in Cape May NJ for wine tastings, vineyard views, dining, weddings, and private events at a beautiful 50 acre vineyard estate.",
+  "status": 200
+ },
+ "Cape May Brewing Company": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "Ocean City Music Pier": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "Playland's Castaway Cove": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "META|https://www.ocnjmuseum.org/": {
+  "desc": null,
+  "status": 202
+ },
+ "Corson's Inlet State Park": {
+  "extract": "Corson's Inlet State Park was established by the New Jersey Legislature in 1969 to protect and preserve one of the last undeveloped tracts of land along the state's oceanfront. The park borders Corson Inlet. The area's natural habitats are teeming with wildlife established in the numerous primary and secondary sand dune systems, shoreline overwash, marine estuaries, and upland areas. The park offers opportunities for observing a number of migratory and residential wildlife species. The park itself is located in Cape May County, just south of Ocean City. The park is operated and maintained by the New Jersey Division of Parks and Forestry.",
+  "url": "https://en.wikipedia.org/wiki/Corson's_Inlet_State_Park",
+  "title": "Corson's Inlet State Park",
+  "qid": "Q5173189",
+  "official": "http://www.state.nj.us/dep/parksandforests/parks/corsons.html",
+  "type": "standard"
+ },
+ "META|https://www.state.nj.us/dep/parksandforests/parks/corsons.html": {
+  "desc": null,
+  "status": 200
+ },
+ "Naval Air Station Wildwood Aviation Museum": {
+  "extract": "The Naval Air Station Wildwood Aviation Museum is an aviation museum located at the Cape May Airport in Lower Township, in Cape May County, New Jersey, United States.",
+  "url": "https://en.wikipedia.org/wiki/Naval_Air_Station_Wildwood_Aviation_Museum",
+  "title": "Naval Air Station Wildwood Aviation Museum",
+  "qid": "Q6981727",
+  "official": "http://usnasw.org/",
+  "type": "standard"
+ },
+ "META|https://usnasw.org/": {
+  "desc": null,
+  "status": 200
+ },
+ "Historic Cold Spring Village": {
+  "extract": "Historic Cold Spring Village is a non-profit living history museum in the Cold Spring section of Lower Township in Cape May County, New Jersey. The village was listed as the Historic Cold Spring Village Historic District on the New Jersey Register of Historic Places on September 27, 2016.",
+  "url": "https://en.wikipedia.org/wiki/Historic_Cold_Spring_Village",
+  "title": "Historic Cold Spring Village",
+  "qid": "Q64152966",
+  "official": "https://hcsv.org/",
+  "type": "standard"
+ },
+ "META|https://hcsv.org/": {
+  "desc": "Enjoy hands on history at the Historic Cold Spring Village located just minutes away from Cape May, Wildwood, Stone Harbor and other South Jersey Shore towns.",
+  "status": 200
+ },
+ "Belleplain State Forest": {
+  "extract": "Belleplain State Forest is a 21,320-acre (86.3 km2) New Jersey State Forest in northern Cape May County and eastern Cumberland County. It has many young pine, oak and Atlantic white cedar trees, having better soil than the northern Pine Barrens. It was established in 1928 and the Civilian Conservation Corps (CCC) set up camps in 1933, and converted Meisle Cranberry Bog into Lake Nummy, and constructed the original forest headquarters, maintenance building, a road system, bridges, and dams.",
+  "url": "https://en.wikipedia.org/wiki/Belleplain_State_Forest",
+  "title": "Belleplain State Forest",
+  "qid": "Q4883801",
+  "official": "https://www.state.nj.us/dep/parksandforests/parks/belle.html",
+  "type": "standard"
+ },
+ "META|https://www.state.nj.us/dep/parksandforests/parks/belle.html": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://njaudubon.org/centers/cape-may-bird-observatory/": {
+  "desc": "The Cape May Bird Observatory was founded in 1976 as a leader in research, environmental education, bird conservation, and recreational birding activities.",
+  "status": 200
+ },
+ "Barnegat Lighthouse State Park": {
+  "extract": "Barnegat Lighthouse State Park is located on the northern tip of Long Beach Island in Ocean County, New Jersey, United States. The area where the lighthouse stands was regarded as one of the most important navigational points for ships bound to and from New York Harbor. The ships were dependent upon the Barnegat Lighthouse to avoid the shoals extending from the shoreline. The fast currents, shifting sandbars, and offshore shoals challenged sailors. The park is included as a maritime site on the New Jersey Coastal Heritage Trail. The park is operated and maintained by the New Jersey Division of Parks and Forestry.",
+  "url": "https://en.wikipedia.org/wiki/Barnegat_Lighthouse_State_Park",
+  "title": "Barnegat Lighthouse State Park",
+  "qid": "Q4861485",
+  "official": "http://www.state.nj.us/dep/parksandforests/parks/barnlig.html",
+  "type": "standard"
+ },
+ "META|https://www.state.nj.us/dep/parksandforests/parks/barnlig.html": {
+  "desc": null,
+  "status": 200
+ },
+ "Island Beach State Park": {
+  "extract": "Island Beach State Park is a New Jersey state park located just south of Seaside Park on the Barnegat Peninsula in Berkeley Township, Ocean County, New Jersey, United States. The park is operated and maintained by the New Jersey Division of Parks and Forestry. Most of the park encompasses the former borough of Island Beach.",
+  "url": "https://en.wikipedia.org/wiki/Island_Beach_State_Park",
+  "title": "Island Beach State Park",
+  "qid": "Q6083013",
+  "official": "http://www.state.nj.us/dep/parksandforests/parks/island.html",
+  "type": "standard"
+ },
+ "META|http://www.state.nj.us/dep/parksandforests/parks/island.html": {
+  "desc": null,
+  "status": "<urlopen error timed out>"
+ },
+ "Casino Pier": {
+  "extract": "Casino Pier is an amusement park situated on a pier, in Seaside Heights, New Jersey. The pier opened in 1932 under the ownership of Linus R Gilbert, an industrialist. Gilbert acquired the property between Grant and Sherman Avenue extending east from the Boulevard to the Atlantic Ocean and oversaw the construction of the pier under his company, LR Gilbert Construction. The pier formerly extended approximately 300 ft (91 m) into the Atlantic Ocean from the narrow strip of the Barnegat Peninsula, including approximately six blocks within Seaside Heights. In 1937 Linus R. Gilbert expanded the business further with the addition of a 165‘ x 65‘ chlorinated saltwater pool.",
+  "url": "https://en.wikipedia.org/wiki/Casino_Pier",
+  "title": "Casino Pier",
+  "qid": "Q5048868",
+  "official": null,
+  "type": "standard"
+ },
+ "Fantasy Island Amusement Park": {
+  "extract": "Niagara Amusement Park & Splash World was an 85 acre amusement park in Grand Island, New York near Niagara Falls. It featured an amusement park and a water park. The park was founded by Lawrence Grant. At time of closing it was owned by Store Capital and operated by IB Parks & Entertainment. It operated somewhat infrequently from 1961 to 2025.",
+  "url": "https://en.wikipedia.org/wiki/Niagara_Amusement_Park_%26_Splash_World",
+  "title": "Niagara Amusement Park & Splash World",
+  "qid": "Q6774786",
+  "official": "https://www.niagaraamusementpark.com/",
+  "type": "standard"
+ },
+ "META|https://www.fantasyislandlbi.com": {
+  "desc": null,
+  "status": 202
+ },
+ "META|https://www.lbimuseum.com/": {
+  "desc": null,
+  "status": 200
+ },
+ "Surflight Theatre": {
+  "extract": "The Surflight Theatre, is a beach-side theatre located in the community of Beach Haven, New Jersey, on Long Beach Island on the Jersey Shore.",
+  "url": "https://en.wikipedia.org/wiki/Surflight_Theatre",
+  "title": "Surflight Theatre",
+  "qid": "Q17026713",
+  "official": null,
+  "type": "standard"
+ },
+ "META|https://www.surflight.org": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://thunderingsurfwaterpark.com": {
+  "desc": "Make a splash at Thundering Surf Waterpark & Adventure Golf, a family-friendly destination packed with thrilling slides, kiddie splash areas, nonstop FlowRider action, fun-filled mini golf, and endless adventure.",
+  "status": 200
+ },
+ "Tuckerton Seaport": {
+  "extract": "The Tuckerton Seaport is a working maritime village and museum located in Tuckerton, a borough situated on the Jersey Shore, within Ocean County in the U.S. state of New Jersey. The 40-acre (160,000 m2) site, which opened in May 2000, features 17 historic and recreated buildings connected by a boardwalk, a maritime forest and wetlands nature trail. The seaport, which is a member of the Council of American Maritime Museums, celebrated its 10th anniversary in 2010.",
+  "url": "https://en.wikipedia.org/wiki/Tuckerton_Seaport",
+  "title": "Tuckerton Seaport",
+  "qid": "Q7851114",
+  "official": "http://www.tuckertonseaport.org/",
+  "type": "standard"
+ },
+ "META|http://www.tuckertonseaport.org/": {
+  "desc": null,
+  "status": "<urlopen error timed out>"
+ },
+ "Cattus Island County Park": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "Double Trouble State Park": {
+  "extract": "Double Trouble State Park is located in Berkeley and Lacey Townships in Ocean County, in the U.S. state of New Jersey. The park was once the Double Trouble company's company town. The park's wilderness is part of the Pine Barrens ecosystem. The park is operated and maintained by the New Jersey Division of Parks and Forestry.",
+  "url": "https://en.wikipedia.org/wiki/Double_Trouble_State_Park%2C_New_Jersey",
+  "title": "Double Trouble State Park, New Jersey",
+  "qid": "Q5299927",
+  "official": "http://www.state.nj.us/dep/parksandforests/parks/double.html",
+  "type": "standard"
+ },
+ "META|https://www.state.nj.us/dep/parksandforests/parks/double.html": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://www.steelpier.com/": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://www.acaquarium.com/": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://www.boardwalkhall.com/": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://www.artsgarageac.com/": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://www.SmithvilleNJ.com/": {
+  "desc": null,
+  "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur"
+ },
+ "META|https://www.renaultwinery.com/": {
+  "desc": "Renault Winery golf, luxury spa, dining and boutique stays on one historic estate in Egg Harbor City, NJ. Plan your South Jersey escape and book today.",
+  "status": 200
+ },
+ "META|https://mmsc.org/": {
+  "desc": "The Marine Mammal Stranding Center (MMSC) is a 501(c)(3) nonprofit organization founded in 1978.\nMMSC is the only Federally-authorized rescue, rehabilitation, and release facility for marine mammals and the authorized first responders for sea turtle strandings & disentanglements in New Jersey.",
+  "status": 200
+ },
+ "META|https://www.capemaymac.org/": {
+  "desc": "Cape May MAC - Exploring History...Enriching Lives    \r\nFeatured Events  daily calendar       \r\nCAPE MAY LIGHTHOUSE   \r\nClimb the 199 steps up the original, cast iron spiral stairway to the top of the 1859 Cape May Lighthouse and",
+  "status": 200
+ },
+ "META|https://www.nj.gov/dep/parksandforests/parks/capemay.html": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://washingtonstreetmall.com/": {
+  "desc": "Cape May’s picturesque town square lined with unique shopping, dining, and more. The heart of America’s Original Seaside Resort!",
+  "status": 200
+ },
+ "META|https://www.moreyspiers.com/": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://capemaywinery.com/": {
+  "desc": "Welcome to the Cape May Winery and Vineyard located at 711 Townbank Road in North Cape May New Jersey.",
+  "status": 200
+ },
+ "META|https://www.hawkhavenvineyard.com/": {
+  "desc": "Taste award-winning wines at Hawk Haven's cozy tasting room in Cape May, where family tradition meets exceptional flavor.",
+  "status": 200
+ },
+ "META|https://natalivineyards.com/": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://capemaybrewery.com/": {
+  "desc": "Visit Cape May Brewing Co. in the Cape May Airport complex for fresh craft beer, a beer garden, brewery events, cans to-go, merch, and beer finder across…",
+  "status": 200
+ },
+ "META|https://7milebrew.com/": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://oceancityfun.com/": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://www.congofalls.com/": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://www.nj.gov/dep/parksandforests/parks/island.html": {
+  "desc": null,
+  "status": 200
+ },
+ "META|https://casinopiernj.com/": {
+  "desc": "Bring the whole family for fun, sun and amusement all Summer long at Casino Pier & Breakwater Beach, in Seaside Heights New Jersey.",
+  "status": 200
+ },
+ "META|https://www.casinopiernj.com/breakwater-beach/": {
+  "desc": "Breakwater Beach Waterpark means fun, sun & waterslides for the whole family. Just steps from the boardwalk in Seaside Heights New Jersey.",
+  "status": 200
+ },
+ "META|https://jenkinsons.com/aquarium/": {
+  "desc": "It’s great family fun at Jenkinson’s Boardwalk & Aquarium. Ride, eat, splash, play, fireworks, movies, concerts and much more!",
+  "status": 200
+ },
+ "META|https://www.tuckertonseaport.org/": {
+  "desc": "Come discover why the Tuckerton Seaport is more than a museum! Whether your visit is virtual or in person – we’re glad you came!",
+  "status": 200
+ },
+ "META|https://pinelandsbrewing.com/": {
+  "desc": null,
+  "status": 200
+ }
+}

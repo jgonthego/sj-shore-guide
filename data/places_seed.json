@@ -1,0 +1,483 @@
+[
+[
+"Lucy the Elephant",
+"Margate City",
+"landmark",
+"Lucy the Elephant"
+],
+[
+"Absecon Lighthouse",
+"Atlantic City",
+"lighthouse",
+"Absecon Lighthouse"
+],
+[
+"Steel Pier",
+"Atlantic City",
+"amusement",
+"Steel Pier"
+],
+[
+"Atlantic City Boardwalk",
+"Atlantic City",
+"boardwalk",
+"Atlantic City Boardwalk"
+],
+[
+"Atlantic City Aquarium",
+"Atlantic City",
+"aquarium",
+null
+],
+[
+"Gardner's Basin",
+"Atlantic City",
+"waterfront",
+null
+],
+[
+"Boardwalk Hall",
+"Atlantic City",
+"venue",
+"Boardwalk Hall"
+],
+[
+"Noyes Arts Garage of Stockton University",
+"Atlantic City",
+"museum",
+null,
+"Noyes Arts Garage"
+],
+[
+"Edwin B. Forsythe National Wildlife Refuge",
+"Galloway Township",
+"nature",
+"Edwin B. Forsythe National Wildlife Refuge"
+],
+[
+"Historic Smithville",
+"Galloway Township",
+"shopping-village",
+null
+],
+[
+"Renault Winery",
+"Egg Harbor City",
+"winery",
+"Renault Winery"
+],
+[
+"Storybook Land",
+"Egg Harbor Township",
+"amusement",
+"Storybook Land (New Jersey)"
+],
+[
+"Hidden Sands Brewing Company",
+"Egg Harbor Township",
+"brewery",
+null
+],
+[
+"Somers Mansion",
+"Somers Point",
+"history",
+"Somers Mansion"
+],
+[
+"Marine Mammal Stranding Center",
+"Brigantine",
+"nature",
+"Marine Mammal Stranding Center"
+],
+[
+"Ventnor City Fishing Pier",
+"Ventnor City",
+"pier",
+null
+],
+[
+"Tun Tavern",
+"Atlantic City",
+"brewery",
+null
+],
+[
+"Cape May Lighthouse",
+"Lower Township",
+"lighthouse",
+"Cape May Light"
+],
+[
+"Cape May Point State Park",
+"Lower Township",
+"nature",
+"Cape May Point State Park"
+],
+[
+"Sunset Beach",
+"Lower Township",
+"beach-spot",
+null
+],
+[
+"Emlen Physick Estate",
+"Cape May",
+"history",
+"Emlen Physick Estate"
+],
+[
+"Washington Street Mall",
+"Cape May",
+"shopping-village",
+null
+],
+[
+"Cape May County Park & Zoo",
+"Middle Township",
+"zoo",
+"Cape May County Park & Zoo"
+],
+[
+"The Wetlands Institute",
+"Middle Township",
+"nature",
+"The Wetlands Institute"
+],
+[
+"Stone Harbor Bird Sanctuary",
+"Stone Harbor",
+"nature",
+null
+],
+[
+"Stone Harbor Point",
+"Stone Harbor",
+"nature",
+null
+],
+[
+"Morey's Piers",
+"Wildwood",
+"amusement",
+"Morey's Piers"
+],
+[
+"Raging Waters",
+"Wildwood",
+"water-park",
+null
+],
+[
+"Ocean Oasis Waterpark",
+"Wildwood",
+"water-park",
+null
+],
+[
+"Wildwoods Boardwalk",
+"Wildwood",
+"boardwalk",
+null
+],
+[
+"Hereford Inlet Lighthouse",
+"North Wildwood",
+"lighthouse",
+"Hereford Inlet Light"
+],
+[
+"Doo Wop Experience",
+"Wildwood",
+"museum",
+null
+],
+[
+"Cape May Winery & Vineyard",
+"Lower Township",
+"winery",
+null
+],
+[
+"Willow Creek Winery",
+"West Cape May",
+"winery",
+null
+],
+[
+"Hawk Haven Vineyard & Winery",
+"Middle Township",
+"winery",
+null,
+"Hawk Haven"
+],
+[
+"Natali Vineyards",
+"Middle Township",
+"winery",
+null
+],
+[
+"Cape May Brewing Company",
+"Lower Township",
+"brewery",
+"Cape May Brewing Company"
+],
+[
+"7 Mile Brewery",
+"Middle Township",
+"brewery",
+null
+],
+[
+"Slack Tide Brewing Company",
+"Middle Township",
+"brewery",
+null,
+"Slack Tide Brewing"
+],
+[
+"Mudhen Brewing Company",
+"Wildwood",
+"brewery",
+null
+],
+[
+"Ocean City Boardwalk",
+"Ocean City",
+"boardwalk",
+null
+],
+[
+"Ocean City Music Pier",
+"Ocean City",
+"venue",
+"Ocean City Music Pier"
+],
+[
+"Playland's Castaway Cove",
+"Ocean City",
+"amusement",
+"Playland's Castaway Cove"
+],
+[
+"Ocean City Historical Museum",
+"Ocean City",
+"museum",
+null
+],
+[
+"Corson's Inlet State Park",
+"Ocean City",
+"nature",
+"Corson's Inlet State Park"
+],
+[
+"Congo Falls Adventure Golf",
+"Ocean City",
+"mini-golf",
+null
+],
+[
+"Sea Isle City Promenade",
+"Sea Isle City",
+"boardwalk",
+null
+],
+[
+"Cape May-Lewes Ferry",
+"Lower Township",
+"landmark",
+"Cape May–Lewes Ferry"
+],
+[
+"Naval Air Station Wildwood Aviation Museum",
+"Lower Township",
+"museum",
+"Naval Air Station Wildwood Aviation Museum"
+],
+[
+"Historic Cold Spring Village",
+"Lower Township",
+"history",
+"Historic Cold Spring Village"
+],
+[
+"Belleplain State Forest",
+"Dennis Township",
+"nature",
+"Belleplain State Forest"
+],
+[
+"Leaming's Run Gardens",
+"Middle Township",
+"nature",
+"Leaming's Run Gardens",
+"Leaming's Run"
+],
+[
+"Cape May Bird Observatory",
+"Cape May Point",
+"nature",
+null,
+"Northwood Center"
+],
+[
+"Barnegat Lighthouse State Park",
+"Barnegat Light",
+"lighthouse",
+"Barnegat Lighthouse State Park"
+],
+[
+"Island Beach State Park",
+"Berkeley Township",
+"nature",
+"Island Beach State Park"
+],
+[
+"Casino Pier",
+"Seaside Heights",
+"amusement",
+"Casino Pier"
+],
+[
+"Breakwater Beach",
+"Seaside Heights",
+"water-park",
+null
+],
+[
+"Jenkinson's Boardwalk",
+"Point Pleasant Beach",
+"amusement",
+"Jenkinson's",
+"Jenkinson's Pavilion"
+],
+[
+"Jenkinson's Aquarium",
+"Point Pleasant Beach",
+"aquarium",
+null
+],
+[
+"Fantasy Island Amusement Park",
+"Beach Haven",
+"amusement",
+"Fantasy Island Amusement Park",
+"Fantasy Island"
+],
+[
+"Long Beach Island Historical Museum",
+"Beach Haven",
+"museum",
+null
+],
+[
+"Surflight Theatre",
+"Beach Haven",
+"venue",
+"Surflight Theatre"
+],
+[
+"Thundering Surf Waterpark",
+"Beach Haven",
+"water-park",
+null
+],
+[
+"Tuckerton Seaport",
+"Tuckerton",
+"museum",
+"Tuckerton Seaport"
+],
+[
+"Tuckerton Beer Company",
+"Tuckerton",
+"brewery",
+null,
+"Tuckerton Beer"
+],
+[
+"Pinelands Brewing Company",
+"Little Egg Harbor Township",
+"brewery",
+null
+],
+[
+"Ship Bottom Brewery",
+"Ship Bottom",
+"brewery",
+null,
+"Ship Bottom Brewery Beach Haven"
+],
+[
+"Cattus Island County Park",
+"Toms River",
+"nature",
+"Cattus Island County Park"
+],
+[
+"Double Trouble State Park",
+"Berkeley Township",
+"nature",
+"Double Trouble State Park"
+],
+[
+"Toms River Seaport Society Maritime Museum",
+"Toms River",
+"museum",
+null,
+"Toms River Seaport Society"
+],
+[
+"Seaside Heights Boardwalk",
+"Seaside Heights",
+"boardwalk",
+null
+],
+[
+"Point Pleasant Beach Boardwalk",
+"Point Pleasant Beach",
+"boardwalk",
+null
+],
+[
+"Lavallette Boardwalk",
+"Lavallette",
+"boardwalk",
+null
+],
+[
+"Ventnor Boardwalk",
+"Ventnor City",
+"boardwalk",
+null
+],
+[
+"Brigantine Beach Nature Area",
+"Brigantine",
+"nature",
+null,
+"Brigantine Natural Area"
+],
+[
+"Linwood Bike Path",
+"Linwood",
+"trail",
+null,
+"Linwood Bikeway"
+],
+[
+"Somers Point Beach",
+"Somers Point",
+"beach-spot",
+null,
+"Somers Point Municipal Beach"
+],
+[
+"Cape May Promenade",
+"Cape May",
+"boardwalk",
+null
+]
+]

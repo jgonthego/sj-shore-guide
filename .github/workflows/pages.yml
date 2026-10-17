@@ -36,8 +36,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      # Pulls every source in scripts/fetch_events.py: official town calendars (Tribe/EvoGov/CivicPlus),
+      # Ocean County Tourism, Wildwoods tourism, OC Regional Chamber and Visit Somers Point, plus
+      # data/events_manual.json. Venue/city geocodes come from the committed Nominatim cache
+      # (data/cache/nominatim.json; new lookups are rate-limited to 1 req/sec). Facebook is never scraped.
       - name: Refresh events (keeps last good data if a calendar is down)
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        timeout-minutes: 15
         run: |
           python scripts/fetch_events.py || echo "event fetch failed; using committed data/events.json"
       - name: Build

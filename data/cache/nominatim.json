@@ -1,0 +1,3797 @@
+{
+ "Point Pleasant Beach, Ocean County, New Jersey": {
+  "place_id": 358858726,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170311,
+  "lat": "40.0919203",
+  "lon": "-74.0482024",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4269424380574794,
+  "addresstype": "town",
+  "name": "Point Pleasant Beach",
+  "display_name": "Point Pleasant Beach, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "40.0722940",
+   "40.1059775",
+   "-74.0643480",
+   "-74.0292602"
+  ]
+ },
+ "Bay Head, Ocean County, New Jersey": {
+  "place_id": 358567993,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170309,
+  "lat": "40.0717828",
+  "lon": "-74.0543036",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4219253967529504,
+  "addresstype": "village",
+  "name": "Bay Head",
+  "display_name": "Bay Head, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "40.0566422",
+   "40.0803250",
+   "-74.0552660",
+   "-74.0292602"
+  ]
+ },
+ "Mantoloking, Ocean County, New Jersey": {
+  "place_id": 358028599,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170300,
+  "lat": "40.0393597",
+  "lon": "-74.0505306",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4189383400084246,
+  "addresstype": "village",
+  "name": "Mantoloking",
+  "display_name": "Mantoloking, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "40.0266470",
+   "40.0590150",
+   "-74.0576930",
+   "-74.0336827"
+  ]
+ },
+ "Brick Township, Ocean County, New Jersey": {
+  "place_id": 358285358,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962548,
+  "lat": "40.0707244",
+  "lon": "-74.1280562",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.464278320906901,
+  "addresstype": "town",
+  "name": "Brick Township",
+  "display_name": "Brick Township, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "40.0012170",
+   "40.1370360",
+   "-74.1605700",
+   "-74.0511200"
+  ]
+ },
+ "Toms River, Ocean County, New Jersey": {
+  "place_id": 344577082,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962551,
+  "lat": "39.9528389",
+  "lon": "-74.1967410",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.5000084842872387,
+  "addresstype": "city",
+  "name": "Toms River",
+  "display_name": "Toms River, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "39.9330020",
+   "40.0596055",
+   "-74.2706742",
+   "-74.0585800"
+  ]
+ },
+ "Lavallette, Ocean County, New Jersey": {
+  "place_id": 343508290,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170319,
+  "lat": "39.9703958",
+  "lon": "-74.0687475",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.41904740004053065,
+  "addresstype": "village",
+  "name": "Lavallette",
+  "display_name": "Lavallette, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "39.9590780",
+   "39.9815610",
+   "-74.0854480",
+   "-74.0636590"
+  ]
+ },
+ "Seaside Heights, Ocean County, New Jersey": {
+  "place_id": 344110833,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170308,
+  "lat": "39.9427613",
+  "lon": "-74.0735588",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.42645767985497673,
+  "addresstype": "town",
+  "name": "Seaside Heights",
+  "display_name": "Seaside Heights, Ocean County, New Jersey, 08751, United States",
+  "boundingbox": [
+   "39.9367570",
+   "39.9546350",
+   "-74.0907410",
+   "-74.0678480"
+  ]
+ },
+ "Seaside Park, Ocean County, New Jersey": {
+  "place_id": 344089413,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170307,
+  "lat": "39.9267832",
+  "lon": "-74.0763847",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.41179521573352884,
+  "addresstype": "town",
+  "name": "Seaside Park",
+  "display_name": "Seaside Park, Ocean County, New Jersey, 08752, United States",
+  "boundingbox": [
+   "39.9127380",
+   "39.9375380",
+   "-74.0858090",
+   "-74.0708690"
+  ]
+ },
+ "Berkeley Township, Ocean County, New Jersey": {
+  "place_id": 344662854,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962539,
+  "lat": "39.8979458",
+  "lon": "-74.1807001",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4162648857824267,
+  "addresstype": "town",
+  "name": "Berkeley Township",
+  "display_name": "Berkeley Township, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "39.7633860",
+   "39.9873561",
+   "-74.3292630",
+   "-74.0763430"
+  ]
+ },
+ "Barnegat Light, Ocean County, New Jersey": {
+  "place_id": 344192854,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170884,
+  "lat": "39.7537149",
+  "lon": "-74.1088188",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4189383400084246,
+  "addresstype": "village",
+  "name": "Barnegat Light",
+  "display_name": "Barnegat Light, Ocean County, New Jersey, 08006, United States",
+  "boundingbox": [
+   "39.7385310",
+   "39.7669820",
+   "-74.1230360",
+   "-74.0927194"
+  ]
+ },
+ "Harvey Cedars, Ocean County, New Jersey": {
+  "place_id": 342005742,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170883,
+  "lat": "39.6974977",
+  "lon": "-74.1393253",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4158085039066356,
+  "addresstype": "village",
+  "name": "Harvey Cedars",
+  "display_name": "Harvey Cedars, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "39.6848930",
+   "39.7150490",
+   "-74.1594020",
+   "-74.1291907"
+  ]
+ },
+ "Long Beach Township, Ocean County, New Jersey": {
+  "place_id": 345364924,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962544,
+  "lat": "39.6162477",
+  "lon": "-74.1997058",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4158085039066356,
+  "addresstype": "village",
+  "name": "Long Beach Township",
+  "display_name": "Long Beach Township, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "39.5082160",
+   "39.7770940",
+   "-74.2961190",
+   "-74.1115523"
+  ]
+ },
+ "Surf City, Ocean County, New Jersey": {
+  "place_id": 344310870,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170303,
+  "lat": "39.6587349",
+  "lon": "-74.1682920",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.41592289788182557,
+  "addresstype": "village",
+  "name": "Surf City",
+  "display_name": "Surf City, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "39.6515555",
+   "39.6721080",
+   "-74.1816160",
+   "-74.1567180"
+  ]
+ },
+ "Ship Bottom, Ocean County, New Jersey": {
+  "place_id": 344137605,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170306,
+  "lat": "39.6496005",
+  "lon": "-74.1757169",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.415002101916886,
+  "addresstype": "village",
+  "name": "Ship Bottom",
+  "display_name": "Ship Bottom, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "39.6347599",
+   "39.6566950",
+   "-74.2001640",
+   "-74.1701190"
+  ]
+ },
+ "Beach Haven, Ocean County, New Jersey": {
+  "place_id": 341996018,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170323,
+  "lat": "39.5629516",
+  "lon": "-74.2405522",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.42285729359498025,
+  "addresstype": "town",
+  "name": "Beach Haven",
+  "display_name": "Beach Haven, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "39.5467905",
+   "39.5852950",
+   "-74.2668430",
+   "-74.2293325"
+  ]
+ },
+ "Point Pleasant, Ocean County, New Jersey": {
+  "place_id": 359406466,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170310,
+  "lat": "40.0831714",
+  "lon": "-74.0681931",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.45086870815675817,
+  "addresstype": "town",
+  "name": "Point Pleasant",
+  "display_name": "Point Pleasant, Ocean County, New Jersey, 08742, United States",
+  "boundingbox": [
+   "40.0590150",
+   "40.0978109",
+   "-74.0917046",
+   "-74.0477580"
+  ]
+ },
+ "Island Heights, Ocean County, New Jersey": {
+  "place_id": 344384246,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170322,
+  "lat": "39.9420626",
+  "lon": "-74.1498616",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.41937349466021984,
+  "addresstype": "village",
+  "name": "Island Heights",
+  "display_name": "Island Heights, Ocean County, New Jersey, 08732, United States",
+  "boundingbox": [
+   "39.9337030",
+   "39.9522940",
+   "-74.1570963",
+   "-74.1321720"
+  ]
+ },
+ "Ocean Gate, Ocean County, New Jersey": {
+  "place_id": 344175891,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170882,
+  "lat": "39.9267851",
+  "lon": "-74.1337496",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.415002101916886,
+  "addresstype": "village",
+  "name": "Ocean Gate",
+  "display_name": "Ocean Gate, Ocean County, New Jersey, 08740, United States",
+  "boundingbox": [
+   "39.9228190",
+   "39.9305240",
+   "-74.1472010",
+   "-74.1237790"
+  ]
+ },
+ "Pine Beach, Ocean County, New Jersey": {
+  "place_id": 344887706,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170314,
+  "lat": "39.9359515",
+  "lon": "-74.1709735",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4156939097669075,
+  "addresstype": "village",
+  "name": "Pine Beach",
+  "display_name": "Pine Beach, Ocean County, New Jersey, 08741, United States",
+  "boundingbox": [
+   "39.9297910",
+   "39.9415040",
+   "-74.1825612",
+   "-74.1569170"
+  ]
+ },
+ "Beachwood, Ocean County, New Jersey": {
+  "place_id": 341947797,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170313,
+  "lat": "39.9390070",
+  "lon": "-74.1929188",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.42285729359498025,
+  "addresstype": "town",
+  "name": "Beachwood",
+  "display_name": "Beachwood, Ocean County, New Jersey, 08722, United States",
+  "boundingbox": [
+   "39.9128725",
+   "39.9460505",
+   "-74.2253554",
+   "-74.1782840"
+  ]
+ },
+ "Lacey Township, Ocean County, New Jersey": {
+  "place_id": 341074935,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962543,
+  "lat": "39.8605724",
+  "lon": "-74.2083587",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4113064781358611,
+  "addresstype": "town",
+  "name": "Lacey Township",
+  "display_name": "Lacey Township, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "39.7964340",
+   "39.9400120",
+   "-74.4346530",
+   "-74.0872157"
+  ]
+ },
+ "Ocean Township, Ocean County, New Jersey": {
+  "place_id": 345653034,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962546,
+  "lat": "39.7914235",
+  "lon": "-74.2123373",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.3922202821662208,
+  "addresstype": "city",
+  "name": "Ocean Township",
+  "display_name": "Ocean Township, Ocean County, New Jersey, 08758, United States",
+  "boundingbox": [
+   "39.7540170",
+   "39.8288130",
+   "-74.3433090",
+   "-74.0955410"
+  ]
+ },
+ "Barnegat Township, Ocean County, New Jersey": {
+  "place_id": 344158697,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962549,
+  "lat": "39.7531754",
+  "lon": "-74.2229179",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.41155130284769104,
+  "addresstype": "town",
+  "name": "Barnegat Township",
+  "display_name": "Barnegat Township, Ocean County, New Jersey, 08005, United States",
+  "boundingbox": [
+   "39.6994239",
+   "39.8280450",
+   "-74.4171280",
+   "-74.1417950"
+  ]
+ },
+ "Stafford Township, Ocean County, New Jersey": {
+  "place_id": 342042826,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962552,
+  "lat": "39.7114651",
+  "lon": "-74.2779616",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.41359616883692174,
+  "addresstype": "town",
+  "name": "Stafford Township",
+  "display_name": "Stafford Township, Ocean County, New Jersey, 08050, United States",
+  "boundingbox": [
+   "39.6403070",
+   "39.7730470",
+   "-74.3896580",
+   "-74.1499494"
+  ]
+ },
+ "Eagleswood Township, Ocean County, New Jersey": {
+  "place_id": 343533255,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962541,
+  "lat": "39.6548979",
+  "lon": "-74.2915980",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4048680426709322,
+  "addresstype": "village",
+  "name": "Eagleswood Township",
+  "display_name": "Eagleswood Township, Ocean County, New Jersey, 08092, United States",
+  "boundingbox": [
+   "39.5888710",
+   "39.7165050",
+   "-74.3582450",
+   "-74.2390200"
+  ]
+ },
+ "Little Egg Harbor Township, Ocean County, New Jersey": {
+  "place_id": 345446935,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962547,
+  "lat": "39.6452742",
+  "lon": "-74.3669680",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4155791147609246,
+  "addresstype": "town",
+  "name": "Little Egg Harbor Township",
+  "display_name": "Little Egg Harbor Township, Ocean County, New Jersey, 08087, United States",
+  "boundingbox": [
+   "39.4985370",
+   "39.7733720",
+   "-74.4191540",
+   "-74.2538420"
+  ]
+ },
+ "Tuckerton, Ocean County, New Jersey": {
+  "place_id": 344241442,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170881,
+  "lat": "39.6035094",
+  "lon": "-74.3381182",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.42397855970078896,
+  "addresstype": "village",
+  "name": "Tuckerton",
+  "display_name": "Tuckerton, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "39.5753100",
+   "39.6168999",
+   "-74.3507060",
+   "-74.3102460"
+  ]
+ },
+ "Brigantine, Atlantic County, New Jersey": {
+  "place_id": 346084317,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170329,
+  "lat": "39.4101171",
+  "lon": "-74.3645906",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.41371448961733565,
+  "addresstype": "town",
+  "name": "Brigantine",
+  "display_name": "Brigantine, Atlantic County, New Jersey, 08203, United States",
+  "boundingbox": [
+   "39.3639957",
+   "39.4442410",
+   "-74.4219930",
+   "-74.3199159"
+  ]
+ },
+ "Atlantic City, Atlantic County, New Jersey": {
+  "place_id": 348879844,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170330,
+  "lat": "39.3642852",
+  "lon": "-74.4229351",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.6204278780747349,
+  "addresstype": "city",
+  "name": "Atlantic City",
+  "display_name": "Atlantic City, Atlantic County, New Jersey, United States",
+  "boundingbox": [
+   "39.3355440",
+   "39.4176780",
+   "-74.5015920",
+   "-74.4028862"
+  ]
+ },
+ "Ventnor City, Atlantic County, New Jersey": {
+  "place_id": 341562092,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170342,
+  "lat": "39.3405045",
+  "lon": "-74.4773916",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4143029080783626,
+  "addresstype": "town",
+  "name": "Ventnor City",
+  "display_name": "Ventnor City, Atlantic County, New Jersey, United States",
+  "boundingbox": [
+   "39.3229710",
+   "39.3584170",
+   "-74.5064310",
+   "-74.4586410"
+  ]
+ },
+ "Margate City, Atlantic County, New Jersey": {
+  "place_id": 346323372,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170341,
+  "lat": "39.3278940",
+  "lon": "-74.5034858",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4154641181832737,
+  "addresstype": "village",
+  "name": "Margate City",
+  "display_name": "Margate City, Atlantic County, New Jersey, United States",
+  "boundingbox": [
+   "39.3094315",
+   "39.3448860",
+   "-74.5229523",
+   "-74.4850850"
+  ]
+ },
+ "Longport, Atlantic County, New Jersey": {
+  "place_id": 345195051,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170339,
+  "lat": "39.3142827",
+  "lon": "-74.5248756",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4103179230018307,
+  "addresstype": "village",
+  "name": "Longport",
+  "display_name": "Longport, Atlantic County, New Jersey, 08403, United States",
+  "boundingbox": [
+   "39.2982240",
+   "39.3245329",
+   "-74.5429620",
+   "-74.5086297"
+  ]
+ },
+ "Absecon, Atlantic County, New Jersey": {
+  "place_id": 344330424,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170328,
+  "lat": "39.4284503",
+  "lon": "-74.4957076",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.41783763285244574,
+  "addresstype": "village",
+  "name": "Absecon",
+  "display_name": "Absecon, Atlantic County, New Jersey, 08201, United States",
+  "boundingbox": [
+   "39.3858850",
+   "39.4496350",
+   "-74.5313980",
+   "-74.4600650"
+  ]
+ },
+ "Pleasantville, Atlantic County, New Jersey": {
+  "place_id": 345334878,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170344,
+  "lat": "39.3898388",
+  "lon": "-74.5240422",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.45033024235544056,
+  "addresstype": "town",
+  "name": "Pleasantville",
+  "display_name": "Pleasantville, Atlantic County, New Jersey, 08232, United States",
+  "boundingbox": [
+   "39.3563180",
+   "39.4189380",
+   "-74.5504640",
+   "-74.4858440"
+  ]
+ },
+ "Northfield, Atlantic County, New Jersey": {
+  "place_id": 344101330,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170343,
+  "lat": "39.3703942",
+  "lon": "-74.5501546",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4127618832342703,
+  "addresstype": "village",
+  "name": "Northfield",
+  "display_name": "Northfield, Atlantic County, New Jersey, 08225, United States",
+  "boundingbox": [
+   "39.3537860",
+   "39.3909590",
+   "-74.5805630",
+   "-74.5320280"
+  ]
+ },
+ "Linwood, Atlantic County, New Jersey": {
+  "place_id": 346754039,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170338,
+  "lat": "39.3398404",
+  "lon": "-74.5751484",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.42140188849657106,
+  "addresstype": "town",
+  "name": "Linwood",
+  "display_name": "Linwood, Atlantic County, New Jersey, 08221, United States",
+  "boundingbox": [
+   "39.3194400",
+   "39.3681810",
+   "-74.5961280",
+   "-74.5433830"
+  ]
+ },
+ "Somers Point, Atlantic County, New Jersey": {
+  "place_id": 344780888,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170345,
+  "lat": "39.3176158",
+  "lon": "-74.5946010",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.42488189173487034,
+  "addresstype": "town",
+  "name": "Somers Point",
+  "display_name": "Somers Point, Atlantic County, New Jersey, 08244, United States",
+  "boundingbox": [
+   "39.2923660",
+   "39.3374040",
+   "-74.6290500",
+   "-74.5690470"
+  ]
+ },
+ "Egg Harbor Township, Atlantic County, New Jersey": {
+  "place_id": 346015116,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 7177716,
+  "lat": "39.3820672",
+  "lon": "-74.6171489",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.41615108812713025,
+  "addresstype": "town",
+  "name": "Egg Harbor Township",
+  "display_name": "Egg Harbor Township, Atlantic County, New Jersey, 08234, United States",
+  "boundingbox": [
+   "39.2927099",
+   "39.4676777",
+   "-74.7238450",
+   "-74.4873220"
+  ]
+ },
+ "Galloway Township, Atlantic County, New Jersey": {
+  "place_id": 344840805,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 7176861,
+  "lat": "39.4646097",
+  "lon": "-74.4986142",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.41523351747267634,
+  "addresstype": "town",
+  "name": "Galloway Township",
+  "display_name": "Galloway Township, Atlantic County, New Jersey, United States",
+  "boundingbox": [
+   "39.3971670",
+   "39.5739490",
+   "-74.6721586",
+   "-74.2960495"
+  ]
+ },
+ "Port Republic, Atlantic County, New Jersey": {
+  "place_id": 344342101,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170888,
+  "lat": "39.5206733",
+  "lon": "-74.4857070",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.404051102337907,
+  "addresstype": "village",
+  "name": "Port Republic",
+  "display_name": "Port Republic, Atlantic County, New Jersey, United States",
+  "boundingbox": [
+   "39.4981570",
+   "39.5593050",
+   "-74.5174270",
+   "-74.4422930"
+  ]
+ },
+ "Ocean City, Cape May County, New Jersey": {
+  "place_id": 346758706,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170430,
+  "lat": "39.2788685",
+  "lon": "-74.5762507",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4825978077388109,
+  "addresstype": "city",
+  "name": "Ocean City",
+  "display_name": "Ocean City, Cape May County, New Jersey, United States",
+  "boundingbox": [
+   "39.2080154",
+   "39.3100970",
+   "-74.6549140",
+   "-74.5495967"
+  ]
+ },
+ "Strathmere, Cape May County, New Jersey": {
+  "place_id": 344976885,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170431,
+  "lat": "39.1965380",
+  "lon": "-74.6573191",
+  "category": "boundary",
+  "type": "census",
+  "place_rank": 25,
+  "importance": 0.35699141996923245,
+  "addresstype": "census",
+  "name": "Strathmere",
+  "display_name": "Strathmere, Upper Township, Cape May County, New Jersey, 08248, United States",
+  "boundingbox": [
+   "39.1816700",
+   "39.2113460",
+   "-74.6740800",
+   "-74.6474270"
+  ]
+ },
+ "Sea Isle City, Cape May County, New Jersey": {
+  "place_id": 345583274,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170429,
+  "lat": "39.1548404",
+  "lon": "-74.6897791",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.39696805131781304,
+  "addresstype": "village",
+  "name": "Sea Isle City",
+  "display_name": "Sea Isle City, Cape May County, New Jersey, 08243, United States",
+  "boundingbox": [
+   "39.1147655",
+   "39.1734300",
+   "-74.7174600",
+   "-74.6791940"
+  ]
+ },
+ "Avalon, Cape May County, New Jersey": {
+  "place_id": 345533034,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170425,
+  "lat": "39.1012250",
+  "lon": "-74.7176622",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.39892313782029826,
+  "addresstype": "village",
+  "name": "Avalon",
+  "display_name": "Avalon, Cape May County, New Jersey, 08202, United States",
+  "boundingbox": [
+   "39.0583106",
+   "39.1194174",
+   "-74.7672290",
+   "-74.7027843"
+  ]
+ },
+ "Stone Harbor, Cape May County, New Jersey": {
+  "place_id": 346314563,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170426,
+  "lat": "39.0537129",
+  "lon": "-74.7584461",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.39384141776543397,
+  "addresstype": "village",
+  "name": "Stone Harbor",
+  "display_name": "Stone Harbor, Cape May County, New Jersey, 08247, United States",
+  "boundingbox": [
+   "39.0140023",
+   "39.0660987",
+   "-74.7899430",
+   "-74.7389755"
+  ]
+ },
+ "North Wildwood, Cape May County, New Jersey": {
+  "place_id": 346740498,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170427,
+  "lat": "39.0006686",
+  "lon": "-74.7993330",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.3940013458892202,
+  "addresstype": "village",
+  "name": "North Wildwood",
+  "display_name": "North Wildwood, Cape May County, New Jersey, United States",
+  "boundingbox": [
+   "38.9868967",
+   "39.0258650",
+   "-74.8189380",
+   "-74.7810155"
+  ]
+ },
+ "Wildwood, Cape May County, New Jersey": {
+  "place_id": 342654456,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170419,
+  "lat": "38.9841969",
+  "lon": "-74.8142502",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4349345676509025,
+  "addresstype": "town",
+  "name": "Wildwood",
+  "display_name": "Wildwood, Cape May County, New Jersey, 08260, United States",
+  "boundingbox": [
+   "38.9741959",
+   "38.9987830",
+   "-74.8351240",
+   "-74.7996006"
+  ]
+ },
+ "Wildwood Crest, Cape May County, New Jersey": {
+  "place_id": 344860087,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170417,
+  "lat": "38.9748351",
+  "lon": "-74.8335015",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.3947951802650482,
+  "addresstype": "village",
+  "name": "Wildwood Crest",
+  "display_name": "Wildwood Crest, Cape May County, New Jersey, United States",
+  "boundingbox": [
+   "38.9559832",
+   "38.9876210",
+   "-74.8551910",
+   "-74.8190975"
+  ]
+ },
+ "Lower Township, Cape May County, New Jersey": {
+  "place_id": 344872703,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 4661451,
+  "lat": "38.9739650",
+  "lon": "-74.9249245",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.3943200352487266,
+  "addresstype": "town",
+  "name": "Lower Township",
+  "display_name": "Lower Township, Cape May County, New Jersey, United States",
+  "boundingbox": [
+   "38.9254650",
+   "39.0392588",
+   "-74.9777079",
+   "-74.8308690"
+  ]
+ },
+ "Cape May, Cape May County, New Jersey": {
+  "place_id": 344117235,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170422,
+  "lat": "38.9334310",
+  "lon": "-74.9214226",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.46562980374353397,
+  "addresstype": "town",
+  "name": "Cape May",
+  "display_name": "Cape May, Cape May County, New Jersey, 18204, United States",
+  "boundingbox": [
+   "38.9254612",
+   "38.9521470",
+   "-74.9388010",
+   "-74.8638357"
+  ]
+ },
+ "Cape May Point, Cape May County, New Jersey": {
+  "place_id": 344817683,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170911,
+  "lat": "38.9360150",
+  "lon": "-74.9673264",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.39635455236634,
+  "addresstype": "village",
+  "name": "Cape May Point",
+  "display_name": "Cape May Point, Cape May County, New Jersey, 08212, United States",
+  "boundingbox": [
+   "38.9256400",
+   "38.9431720",
+   "-74.9786327",
+   "-74.9568917"
+  ]
+ },
+ "West Wildwood, Cape May County, New Jersey": {
+  "place_id": 345181735,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170418,
+  "lat": "39.0023352",
+  "lon": "-74.8243343",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.39106112740783944,
+  "addresstype": "village",
+  "name": "West Wildwood",
+  "display_name": "West Wildwood, Cape May County, New Jersey, United States",
+  "boundingbox": [
+   "38.9959557",
+   "39.0064640",
+   "-74.8316310",
+   "-74.8158737"
+  ]
+ },
+ "West Cape May, Cape May County, New Jersey": {
+  "place_id": 341568923,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170421,
+  "lat": "38.9387236",
+  "lon": "-74.9418404",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.38850590600538054,
+  "addresstype": "village",
+  "name": "West Cape May",
+  "display_name": "West Cape May, Cape May County, New Jersey, United States",
+  "boundingbox": [
+   "38.9327110",
+   "38.9508020",
+   "-74.9519981",
+   "-74.9211340"
+  ]
+ },
+ "Middle Township, Cape May County, New Jersey": {
+  "place_id": 344775348,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 4661464,
+  "lat": "39.1190651",
+  "lon": "-74.8458744",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.3908938462590478,
+  "addresstype": "town",
+  "name": "Middle Township",
+  "display_name": "Middle Township, Cape May County, New Jersey, United States",
+  "boundingbox": [
+   "38.9943825",
+   "39.1791069",
+   "-74.9366120",
+   "-74.7174573"
+  ]
+ },
+ "Dennis Township, Cape May County, New Jersey": {
+  "place_id": 344874024,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 4661477,
+  "lat": "39.2140369",
+  "lon": "-74.8846342",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.3946371813123099,
+  "addresstype": "city",
+  "name": "Dennis Township",
+  "display_name": "Dennis Township, Cape May County, New Jersey, United States",
+  "boundingbox": [
+   "39.1194174",
+   "39.3083978",
+   "-74.9264440",
+   "-74.6906890"
+  ]
+ },
+ "PLACE|Lucy the Elephant, Margate City, New Jersey": [
+  {
+   "place_id": 344692735,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1352096419,
+   "lat": "39.3208361",
+   "lon": "-74.5116104",
+   "category": "tourism",
+   "type": "attraction",
+   "place_rank": 30,
+   "importance": 0.2917175836992075,
+   "addresstype": "tourism",
+   "name": "Lucy the Elephant",
+   "display_name": "Lucy the Elephant, 9200, Atlantic Avenue, Margate City, Atlantic County, New Jersey, 08402, United States",
+   "extratags": {
+    "ele": "2",
+    "height": "19.8",
+    "mimics": "elephant",
+    "website": "https://www.lucytheelephant.org/",
+    "building": "yes",
+    "wikidata": "Q1873754",
+    "architect": "James V. Lafferty",
+    "start_date": "1882",
+    "architect:wikidata": "Q6144561"
+   },
+   "boundingbox": [
+    "39.3207587",
+    "39.3209155",
+    "-74.5117171",
+    "-74.5114684"
+   ]
+  }
+ ],
+ "PLACE|Absecon Lighthouse, Atlantic City, New Jersey": [
+  {
+   "place_id": 345344151,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 230036850,
+   "lat": "39.3663313",
+   "lon": "-74.4141539",
+   "category": "man_made",
+   "type": "lighthouse",
+   "place_rank": 30,
+   "importance": 0.2753675655596695,
+   "addresstype": "man_made",
+   "name": "Absecon Lighthouse",
+   "display_name": "Absecon Lighthouse, Pacific Avenue, Southeast Inlet, Inlet, Atlantic City, Atlantic County, New Jersey, 08401, United States",
+   "extratags": {
+    "height": "52",
+    "building": "yes",
+    "wikidata": "Q4669685",
+    "wikipedia": "en:Absecon Lighthouse"
+   },
+   "boundingbox": [
+    "39.3663037",
+    "39.3663605",
+    "-74.4141909",
+    "-74.4141172"
+   ]
+  }
+ ],
+ "PLACE|Steel Pier, Atlantic City, New Jersey": [
+  {
+   "place_id": 344887266,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 229939911,
+   "lat": "39.3571484",
+   "lon": "-74.4188308",
+   "category": "tourism",
+   "type": "theme_park",
+   "place_rank": 30,
+   "importance": 0.33399297642662173,
+   "addresstype": "tourism",
+   "name": "Steel Pier",
+   "display_name": "Steel Pier, Atlantic City Boardwalk, Chelsea, Westside, Atlantic City, Atlantic County, New Jersey, 08404, United States",
+   "extratags": {
+    "foot": "yes",
+    "man_made": "pier",
+    "wikidata": "Q1455092"
+   },
+   "boundingbox": [
+    "39.3561775",
+    "39.3585712",
+    "-74.4199170",
+    "-74.4180024"
+   ]
+  }
+ ],
+ "PLACE|Atlantic City Boardwalk, Atlantic City, New Jersey": [
+  {
+   "place_id": 344849288,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 8299398,
+   "lat": "39.3511117",
+   "lon": "-74.4465933",
+   "category": "highway",
+   "type": "pedestrian",
+   "place_rank": 26,
+   "importance": 0.2548773901198179,
+   "addresstype": "road",
+   "name": "Atlantic City Boardwalk",
+   "display_name": "Atlantic City Boardwalk, Chelsea, Westside, Atlantic City, Atlantic County, New Jersey, 08404, United States",
+   "extratags": {
+    "bridge": "boardwalk",
+    "surface": "wood",
+    "wikidata": "Q111491950"
+   },
+   "boundingbox": [
+    "39.3433296",
+    "39.3588879",
+    "-74.4645266",
+    "-74.4199306"
+   ]
+  },
+  {
+   "place_id": 344755345,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 188632939,
+   "lat": "39.3551168",
+   "lon": "-74.4339517",
+   "category": "highway",
+   "type": "pedestrian",
+   "place_rank": 26,
+   "importance": 0.05340038529030286,
+   "addresstype": "road",
+   "name": "Atlantic City Boardwalk",
+   "display_name": "Atlantic City Boardwalk, Southeast Inlet, Inlet, Atlantic City, Atlantic County, New Jersey, 08406, United States",
+   "extratags": {
+    "foot": "permissive",
+    "horse": "permit",
+    "layer": "1",
+    "bridge": "boardwalk",
+    "oneway": "no",
+    "bicycle": "yes",
+    "surface": "wood",
+    "motor_vehicle": "no"
+   },
+   "boundingbox": [
+    "39.3433502",
+    "39.3704299",
+    "-74.4644888",
+    "-74.4098184"
+   ]
+  }
+ ],
+ "PLACE|Atlantic City Aquarium, Atlantic City, New Jersey": [
+  {
+   "place_id": 347474220,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 41323490,
+   "lat": "39.3769732",
+   "lon": "-74.4201969",
+   "category": "tourism",
+   "type": "aquarium",
+   "place_rank": 30,
+   "importance": 4.6479743648386624e-05,
+   "addresstype": "tourism",
+   "name": "Atlantic City Aquarium",
+   "display_name": "Atlantic City Aquarium, Boardwalk, Northeast Inlet, Inlet, Atlantic City, Atlantic County, New Jersey, 08401, United States",
+   "extratags": {
+    "building": "yes"
+   },
+   "boundingbox": [
+    "39.3766209",
+    "39.3772574",
+    "-74.4203192",
+    "-74.4198885"
+   ]
+  }
+ ],
+ "PLACE|Gardner's Basin, Atlantic City, New Jersey": [
+  {
+   "place_id": 344878546,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 591379187,
+   "lat": "39.3743017",
+   "lon": "-74.4186605",
+   "category": "landuse",
+   "type": "residential",
+   "place_rank": 24,
+   "importance": 0.08006705195696953,
+   "addresstype": "residential",
+   "name": "The Cove at Gardner's Basin",
+   "display_name": "The Cove at Gardner's Basin, Inlet, Atlantic City, Atlantic County, New Jersey, United States",
+   "extratags": null,
+   "boundingbox": [
+    "39.3727603",
+    "39.3758290",
+    "-74.4205547",
+    "-74.4167601"
+   ]
+  }
+ ],
+ "PLACE|Boardwalk Hall, Atlantic City, New Jersey": [
+  {
+   "place_id": 343241374,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 539870310,
+   "lat": "39.3547787",
+   "lon": "-74.4384325",
+   "category": "amenity",
+   "type": "conference_centre",
+   "place_rank": 30,
+   "importance": 0.4885160886169344,
+   "addresstype": "amenity",
+   "name": "Jim Whelan Boardwalk Hall",
+   "display_name": "Jim Whelan Boardwalk Hall, Pacific Avenue, Ducktown, Westside, Atlantic City, Atlantic County, New Jersey, 08401, United States",
+   "extratags": {
+    "building": "yes",
+    "wikidata": "Q887566",
+    "wikipedia": "en:Boardwalk Hall",
+    "roof:shape": "round",
+    "building:levels": "6",
+    "building:material": "cement_block"
+   },
+   "boundingbox": [
+    "39.3538393",
+    "39.3557494",
+    "-74.4394709",
+    "-74.4373942"
+   ]
+  }
+ ],
+ "PLACE|Noyes Arts Garage of Stockton University, Atlantic City, New Jersey": [],
+ "PLACE|Noyes Arts Garage of Stockton University, New Jersey": [],
+ "PLACE|Edwin B. Forsythe National Wildlife Refuge, Galloway Township, New Jersey": [
+  {
+   "place_id": 344226508,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 10907414,
+   "lat": "39.4706961",
+   "lon": "-74.4259492",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.33711216279521466,
+   "addresstype": "nature_reserve",
+   "name": "Edwin B. Forsythe National Wildlife Refuge",
+   "display_name": "Edwin B. Forsythe National Wildlife Refuge, Galloway Township, Atlantic County, New Jersey, 08731, United States",
+   "extratags": {
+    "website": "https://www.fws.gov/refuge/edwin-b-forsythe",
+    "boundary": "protected_area",
+    "operator": "United States Fish and Wildlife Service",
+    "wikidata": "Q5346225",
+    "ownership": "national",
+    "protected": "perpetuity",
+    "operator:type": "public",
+    "protect_class": "4",
+    "operator:short": "USFWS",
+    "protected_area": "wildlife_refuge",
+    "protection_title": "National Wildlife Refuge",
+    "operator:wikidata": "Q674113"
+   },
+   "boundingbox": [
+    "39.4350053",
+    "40.0509855",
+    "-74.4844645",
+    "-74.0571865"
+   ]
+  }
+ ],
+ "PLACE|Historic Smithville, Galloway Township, New Jersey": [
+  {
+   "place_id": 346762585,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 28755682,
+   "lat": "39.4954541",
+   "lon": "-74.4604161",
+   "category": "tourism",
+   "type": "attraction",
+   "place_rank": 30,
+   "importance": 0.35585735640848576,
+   "addresstype": "tourism",
+   "name": "Historic Smithville",
+   "display_name": "Historic Smithville, Clearwater Way, Fox Chase, Smithville, Galloway Township, Atlantic County, New Jersey, 08220, United States",
+   "extratags": {
+    "area": "yes",
+    "wikipedia": "en:Smithville, Atlantic County, New Jersey"
+   },
+   "boundingbox": [
+    "39.4939978",
+    "39.4967357",
+    "-74.4639353",
+    "-74.4574715"
+   ]
+  }
+ ],
+ "PLACE|Renault Winery, Egg Harbor City, New Jersey": [
+  {
+   "place_id": 343545500,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 27877516,
+   "lat": "39.5425333",
+   "lon": "-74.6018908",
+   "category": "tourism",
+   "type": "attraction",
+   "place_rank": 30,
+   "importance": 0.2946949388609965,
+   "addresstype": "tourism",
+   "name": "Renault Winery",
+   "display_name": "Renault Winery, Moss Mill Road, Egg Harbor City, Atlantic County, New Jersey, 08215, United States",
+   "extratags": {
+    "tourism": "attraction",
+    "wikidata": "Q7312750"
+   },
+   "boundingbox": [
+    "39.5339740",
+    "39.5505529",
+    "-74.6131500",
+    "-74.5901600"
+   ]
+  }
+ ],
+ "PLACE|Storybook Land, Egg Harbor Township, New Jersey": [
+  {
+   "place_id": 344852067,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 128366272,
+   "lat": "39.4220040",
+   "lon": "-74.5912497",
+   "category": "tourism",
+   "type": "theme_park",
+   "place_rank": 30,
+   "importance": 0.19938740066310082,
+   "addresstype": "tourism",
+   "name": "Storybook Land",
+   "display_name": "Storybook Land, Black Horse Pike, Egg Harbor Township, Atlantic County, New Jersey, 08234, United States",
+   "extratags": {
+    "website": "https://storybookland.com/",
+    "wikidata": "Q7620441"
+   },
+   "boundingbox": [
+    "39.4200752",
+    "39.4240876",
+    "-74.5932627",
+    "-74.5892800"
+   ]
+  }
+ ],
+ "PLACE|Hidden Sands Brewing Company, Egg Harbor Township, New Jersey": [
+  {
+   "place_id": 345542994,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10922964612,
+   "lat": "39.4044270",
+   "lon": "-74.5540554",
+   "category": "craft",
+   "type": "brewery",
+   "place_rank": 30,
+   "importance": 4.7079423208926794e-05,
+   "addresstype": "craft",
+   "name": "Hidden Sands Brewing Company",
+   "display_name": "Hidden Sands Brewing Company, 6754, Washington Avenue, Egg Harbor Township, Atlantic County, New Jersey, 08234, United States",
+   "extratags": {
+    "phone": "+1-609-910-2009",
+    "website": "https://hiddensands.com/"
+   },
+   "boundingbox": [
+    "39.4043770",
+    "39.4044770",
+    "-74.5541054",
+    "-74.5540054"
+   ]
+  }
+ ],
+ "PLACE|Somers Mansion, Somers Point, New Jersey": [
+  {
+   "place_id": 341322094,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1099114145,
+   "lat": "39.3094388",
+   "lon": "-74.5984730",
+   "category": "historic",
+   "type": "building",
+   "place_rank": 30,
+   "importance": 4.6958876935942895e-05,
+   "addresstype": "historic",
+   "name": "Somers Mansion",
+   "display_name": "Somers Mansion, Shore Road, Somers Point, Atlantic County, New Jersey, 08244, United States",
+   "extratags": {
+    "building": "yes"
+   },
+   "boundingbox": [
+    "39.3093723",
+    "39.3095036",
+    "-74.5985588",
+    "-74.5983910"
+   ]
+  }
+ ],
+ "PLACE|Marine Mammal Stranding Center, Brigantine, New Jersey": [
+  {
+   "place_id": 342638043,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 701732089,
+   "lat": "39.3951661",
+   "lon": "-74.3909582",
+   "category": "amenity",
+   "type": "animal_shelter",
+   "place_rank": 30,
+   "importance": 4.6479743648386624e-05,
+   "addresstype": "amenity",
+   "name": "Marine Mammal Stranding Center",
+   "display_name": "Marine Mammal Stranding Center, Brigantine Boulevard, Brigantine, Atlantic County, New Jersey, 08203, United States",
+   "extratags": {
+    "building": "yes",
+    "animal_shelter": "bird;wildlife;sea_animal;turtle",
+    "animal_shelter:release": "yes"
+   },
+   "boundingbox": [
+    "39.3950823",
+    "39.3952159",
+    "-74.3910887",
+    "-74.3908197"
+   ]
+  }
+ ],
+ "PLACE|Ventnor City Fishing Pier, Ventnor City, New Jersey": [
+  {
+   "place_id": 345575724,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1098985608,
+   "lat": "39.3361788",
+   "lon": "-74.4774842",
+   "category": "shop",
+   "type": "fishing",
+   "place_rank": 30,
+   "importance": 4.6446173800213894e-05,
+   "addresstype": "shop",
+   "name": "Ventnor City Fishing Pier",
+   "display_name": "Ventnor City Fishing Pier, Ventnor City Boardwalk, Ventnor City, Atlantic County, New Jersey, 08406, United States",
+   "extratags": {
+    "building": "yes"
+   },
+   "boundingbox": [
+    "39.3361027",
+    "39.3362533",
+    "-74.4775623",
+    "-74.4774042"
+   ]
+  }
+ ],
+ "PLACE|Tun Tavern, Atlantic City, New Jersey": [
+  {
+   "place_id": 344863335,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4984049132,
+   "lat": "39.3622965",
+   "lon": "-74.4381738",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 6.705195696951274e-05,
+   "addresstype": "amenity",
+   "name": "Tun Tavern",
+   "display_name": "Tun Tavern, 2, Miss America Way, Westside, Atlantic City, Atlantic County, New Jersey, 08401, United States",
+   "extratags": {
+    "cuisine": "american",
+    "website": "https://www.tuntavern.com",
+    "microbrewery": "yes"
+   },
+   "boundingbox": [
+    "39.3622465",
+    "39.3623465",
+    "-74.4382238",
+    "-74.4381238"
+   ]
+  }
+ ],
+ "PLACE|Cape May Lighthouse, Lower Township, New Jersey": [],
+ "PLACE|Cape May Lighthouse, New Jersey": [
+  {
+   "place_id": 344839765,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 261320234,
+   "lat": "38.9329907",
+   "lon": "-74.9603733",
+   "category": "man_made",
+   "type": "lighthouse",
+   "place_rank": 30,
+   "importance": 0.32173239253715025,
+   "addresstype": "man_made",
+   "name": "Cape May Lighthouse",
+   "display_name": "Cape May Lighthouse, Light House Avenue, Cape May Point, Cape May County, New Jersey, 08204, United States",
+   "extratags": {
+    "building": "yes",
+    "heritage": "2",
+    "ref:nrhp": "73001090",
+    "wikidata": "Q5034933",
+    "wikipedia": "en:Cape May Lighthouse",
+    "seamark:type": "light_major",
+    "heritage:operator": "nrhp"
+   },
+   "boundingbox": [
+    "38.9329327",
+    "38.9330485",
+    "-74.9604257",
+    "-74.9603126"
+   ]
+  }
+ ],
+ "PLACE|Cape May Point State Park, Lower Township, New Jersey": [
+  {
+   "place_id": 346159563,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 8294644,
+   "lat": "38.9355506",
+   "lon": "-74.9553861",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.31568281446101826,
+   "addresstype": "nature_reserve",
+   "name": "Cape May Point State Park",
+   "display_name": "Cape May Point State Park, Sunset Beach, Lower Township, Cape May County, New Jersey, United States",
+   "extratags": {
+    "boundary": "protected_area",
+    "wikidata": "Q5034936",
+    "wikipedia": "en:Cape May Point State Park",
+    "protect_class": "5",
+    "protection_title": "State Park"
+   },
+   "boundingbox": [
+    "38.9306788",
+    "38.9879588",
+    "-74.9708604",
+    "-74.9488161"
+   ]
+  }
+ ],
+ "PLACE|Sunset Beach, Lower Township, New Jersey": [
+  {
+   "place_id": 346768933,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 158852424,
+   "lat": "38.9445274",
+   "lon": "-74.9697232",
+   "category": "place",
+   "type": "hamlet",
+   "place_rank": 20,
+   "importance": 0.13337611123826962,
+   "addresstype": "hamlet",
+   "name": "Sunset Beach",
+   "display_name": "Sunset Beach, Lower Township, Cape May County, New Jersey, 08212, United States",
+   "extratags": {
+    "ele": "-1"
+   },
+   "boundingbox": [
+    "38.9245274",
+    "38.9645274",
+    "-74.9897232",
+    "-74.9497232"
+   ]
+  },
+  {
+   "place_id": 342645904,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 357730642,
+   "lat": "38.9495569",
+   "lon": "-74.9685085",
+   "category": "natural",
+   "type": "beach",
+   "place_rank": 22,
+   "importance": 0.10671004730296786,
+   "addresstype": "beach",
+   "name": "Sunset Beach",
+   "display_name": "Sunset Beach, Lower Township, Cape May County, New Jersey, 08212, United States",
+   "extratags": {
+    "ele": "0"
+   },
+   "boundingbox": [
+    "38.9495069",
+    "38.9496069",
+    "-74.9685585",
+    "-74.9684585"
+   ]
+  }
+ ],
+ "PLACE|Emlen Physick Estate, Cape May, New Jersey": [
+  {
+   "place_id": 345002770,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 261320494,
+   "lat": "38.9403129",
+   "lon": "-74.9147736",
+   "category": "tourism",
+   "type": "museum",
+   "place_rank": 30,
+   "importance": 5.22461280231482e-05,
+   "addresstype": "tourism",
+   "name": "Emlen Physick Estate",
+   "display_name": "Emlen Physick Estate, Washington Street, Cape May, Cape May County, New Jersey, 18204, United States",
+   "extratags": {
+    "fee": "yes",
+    "building": "yes",
+    "wikidata": "Q5372658",
+    "wheelchair": "yes",
+    "opening_hours:url": "https://capemaymac.org/experience/emlen-physick-estate/emlen-physick-estate-calendar/"
+   },
+   "boundingbox": [
+    "38.9402239",
+    "38.9404538",
+    "-74.9149390",
+    "-74.9146258"
+   ]
+  }
+ ],
+ "PLACE|Washington Street Mall, Cape May, New Jersey": [
+  {
+   "place_id": 344828268,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 261177917,
+   "lat": "38.9326066",
+   "lon": "-74.9229766",
+   "category": "landuse",
+   "type": "retail",
+   "place_rank": 24,
+   "importance": 0.08005224612802317,
+   "addresstype": "retail",
+   "name": "Washington Street Mall",
+   "display_name": "Washington Street Mall, Cape May, Cape May County, New Jersey, United States",
+   "extratags": null,
+   "boundingbox": [
+    "38.9316820",
+    "38.9336290",
+    "-74.9245553",
+    "-74.9212660"
+   ]
+  }
+ ],
+ "PLACE|Cape May County Park & Zoo, Middle Township, New Jersey": [
+  {
+   "place_id": 344170610,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 28595444,
+   "lat": "39.1017045",
+   "lon": "-74.8151257",
+   "category": "leisure",
+   "type": "park",
+   "place_rank": 24,
+   "importance": 0.2432038182346074,
+   "addresstype": "park",
+   "name": "Cape May County Park & Zoo",
+   "display_name": "Cape May County Park & Zoo, Cape May Court House, Middle Township, Cape May County, New Jersey, United States",
+   "extratags": {
+    "wikidata": "Q5034928"
+   },
+   "boundingbox": [
+    "39.0966647",
+    "39.1067539",
+    "-74.8184825",
+    "-74.8085972"
+   ]
+  }
+ ],
+ "PLACE|The Wetlands Institute, Middle Township, New Jersey": [
+  {
+   "place_id": 345541952,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 11072811,
+   "lat": "39.0593977",
+   "lon": "-74.7724199",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.08004677119096663,
+   "addresstype": "nature_reserve",
+   "name": "The Wetlands Institute",
+   "display_name": "The Wetlands Institute, Stone Harbor Manor, Middle Township, Cape May County, New Jersey, United States",
+   "extratags": {
+    "access": "yes",
+    "website": "https://wetlandsinstitute.org/",
+    "boundary": "protected_area",
+    "protect_class": "5"
+   },
+   "boundingbox": [
+    "39.0573819",
+    "39.0614411",
+    "-74.7762528",
+    "-74.7696394"
+   ]
+  },
+  {
+   "place_id": 345858648,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 837144345,
+   "lat": "39.0605092",
+   "lon": "-74.7731097",
+   "category": "tourism",
+   "type": "museum",
+   "place_rank": 30,
+   "importance": 4.6771190966613525e-05,
+   "addresstype": "tourism",
+   "name": "The Wetlands Institute",
+   "display_name": "The Wetlands Institute, 1075, Stone Harbor Boulevard, Stone Harbor Manor, Stone Harbor, Cape May County, New Jersey, 08247, United States",
+   "extratags": {
+    "phone": "+1-609-368-1211",
+    "museum": "nature",
+    "website": "https://wetlandsinstitute.org/",
+    "building": "yes",
+    "operator": "The Wetlands Institute",
+    "opening_hours": "Sa-Su 09:30-16:30",
+    "operator:type": "private_non_profit"
+   },
+   "boundingbox": [
+    "39.0603868",
+    "39.0606300",
+    "-74.7733371",
+    "-74.7728870"
+   ]
+  }
+ ],
+ "PLACE|Stone Harbor Bird Sanctuary, Stone Harbor, New Jersey": [
+  {
+   "place_id": 344799051,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 32234521,
+   "lat": "39.0419591",
+   "lon": "-74.7686686",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.1679799034751623,
+   "addresstype": "nature_reserve",
+   "name": "Stone Harbor Bird Sanctuary",
+   "display_name": "Stone Harbor Bird Sanctuary, Stone Harbor, Cape May County, New Jersey, United States",
+   "extratags": {
+    "ele": "0",
+    "boundary": "protected_area",
+    "wikidata": "Q7618947",
+    "wikipedia": "en:Stone Harbor Bird Sanctuary",
+    "start_date": "1947",
+    "protected_area": "wildlife_refuge",
+    "protection_title": "National Natural Landmark",
+    "wildlife_refuge:for": "bird"
+   },
+   "boundingbox": [
+    "39.0397893",
+    "39.0440603",
+    "-74.7710823",
+    "-74.7665659"
+   ]
+  }
+ ],
+ "PLACE|Stone Harbor Point, Stone Harbor, New Jersey": [
+  {
+   "place_id": 344780570,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 11504420,
+   "lat": "39.0298150",
+   "lon": "-74.7794972",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.08004677119096663,
+   "addresstype": "nature_reserve",
+   "name": "Stone Harbor Point",
+   "display_name": "Stone Harbor Point, Stone Harbor, Cape May County, New Jersey, United States",
+   "extratags": {
+    "fee": "no",
+    "website": "https://stoneharbornj.org/community-interest/stone-harbor-point/",
+    "ownership": "local"
+   },
+   "boundingbox": [
+    "39.0199636",
+    "39.0396947",
+    "-74.7918767",
+    "-74.7704709"
+   ]
+  }
+ ],
+ "PLACE|Morey's Piers, Wildwood, New Jersey": [
+  {
+   "place_id": 344938308,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 7122177,
+   "lat": "38.9855777",
+   "lon": "-74.8092740",
+   "category": "tourism",
+   "type": "theme_park",
+   "place_rank": 30,
+   "importance": 0.33029660482760953,
+   "addresstype": "tourism",
+   "name": "Morey's Piers",
+   "display_name": "Morey's Piers, East Poplar Avenue, Wildwood, Cape May County, New Jersey, 08260, United States",
+   "extratags": {
+    "wikidata": "Q3323943",
+    "wikipedia": "en:Morey's Piers"
+   },
+   "boundingbox": [
+    "38.9826782",
+    "38.9903202",
+    "-74.8144200",
+    "-74.8010289"
+   ]
+  }
+ ],
+ "PLACE|Raging Waters, Wildwood, New Jersey": [
+  {
+   "place_id": 343245640,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 11062796,
+   "lat": "38.9849447",
+   "lon": "-74.8085990",
+   "category": "tourism",
+   "type": "theme_park",
+   "place_rank": 30,
+   "importance": 4.946746013575978e-05,
+   "addresstype": "tourism",
+   "name": "Raging Waters Waterpark",
+   "display_name": "Raging Waters Waterpark, 3501, Boardwalk, Wildwood, Cape May County, New Jersey, 08260, United States",
+   "extratags": {
+    "phone": "+1-609-522-3900",
+    "smoking": "no",
+    "website": "https://www.moreyspiers.com/water-parks/raging-waters-water-park",
+    "wheelchair": "limited",
+    "opening_hours:url": "https://www.moreyspiers.com/info/park-hours"
+   },
+   "boundingbox": [
+    "38.9842293",
+    "38.9856784",
+    "-74.8094288",
+    "-74.8078401"
+   ]
+  }
+ ],
+ "PLACE|Ocean Oasis Waterpark, Wildwood, New Jersey": [
+  {
+   "place_id": 345020866,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 11062797,
+   "lat": "38.9886346",
+   "lon": "-74.8016825",
+   "category": "leisure",
+   "type": "water_park",
+   "place_rank": 30,
+   "importance": 4.946746013575978e-05,
+   "addresstype": "leisure",
+   "name": "Ocean Oasis Waterpark & Beach Club",
+   "display_name": "Ocean Oasis Waterpark & Beach Club, Boardwalk, North Wildwood, Cape May County, New Jersey, 08260, United States",
+   "extratags": {
+    "website": "https://www.moreyspiers.com/water-parks/ocean-oasis-water-park-beach-club",
+    "operator": "Morey's Piers"
+   },
+   "boundingbox": [
+    "38.9880898",
+    "38.9892028",
+    "-74.8026153",
+    "-74.8010289"
+   ]
+  }
+ ],
+ "PLACE|Wildwoods Boardwalk, Wildwood, New Jersey": [
+  {
+   "place_id": 348883882,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 614113994,
+   "lat": "38.9814873",
+   "lon": "-74.8169301",
+   "category": "amenity",
+   "type": "conference_centre",
+   "place_rank": 30,
+   "importance": 4.946746013575978e-05,
+   "addresstype": "amenity",
+   "name": "Wildwoods Convention Center",
+   "display_name": "Wildwoods Convention Center, Boardwalk, Wildwood, Cape May County, New Jersey, 08260, United States",
+   "extratags": {
+    "building": "yes",
+    "wikidata": "Q8001588",
+    "check_date": "2024-08-03"
+   },
+   "boundingbox": [
+    "38.9805386",
+    "38.9824451",
+    "-74.8178735",
+    "-74.8153992"
+   ]
+  },
+  {
+   "place_id": 345580930,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 230912994,
+   "lat": "38.9861967",
+   "lon": "-74.8095293",
+   "category": "tourism",
+   "type": "attraction",
+   "place_rank": 30,
+   "importance": 4.946746013575978e-05,
+   "addresstype": "tourism",
+   "name": "Pirates of the Wildwoods",
+   "display_name": "Pirates of the Wildwoods, Boardwalk, Wildwood, Cape May County, New Jersey, 08260, United States",
+   "extratags": {
+    "tourism": "attraction",
+    "building": "yes"
+   },
+   "boundingbox": [
+    "38.9860623",
+    "38.9863315",
+    "-74.8097066",
+    "-74.8093521"
+   ]
+  }
+ ],
+ "PLACE|Hereford Inlet Lighthouse, North Wildwood, New Jersey": [
+  {
+   "place_id": 344751097,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 266392236,
+   "lat": "39.0068225",
+   "lon": "-74.7915306",
+   "category": "man_made",
+   "type": "lighthouse",
+   "place_rank": 30,
+   "importance": 0.12743869505990896,
+   "addresstype": "man_made",
+   "name": "Hereford Inlet Light",
+   "display_name": "Hereford Inlet Light, Central Avenue, Hereford Light, North Wildwood, Cape May County, New Jersey, 08260, United States",
+   "extratags": {
+    "image": "https://herefordinletlighthouse.com/gallery/",
+    "layer": "1",
+    "height": "17.4",
+    "building": "yes",
+    "heritage": "2",
+    "historic": "lighthouse",
+    "operator": "U.S. Coast Guard",
+    "ref:nrhp": "77000859",
+    "wikidata": "Q5737997",
+    "source_ref": "https://www.lighthousefriends.com/light.asp?ID=388",
+    "start_date": "1874",
+    "seamark:name": "Hereford Inlet Light",
+    "seamark:type": "light_major",
+    "nrhp:criteria": "A;C",
+    "contact:website": "https://herefordinletlighthouse.com/",
+    "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+    "protection_title": "New Jersey Department of Environmental Protection Division of Parks and Forestry",
+    "heritage:operator": "nrhp",
+    "seamark:reference": "LLNR 90",
+    "seamark:light:range": "18",
+    "seamark:light:colour": "white",
+    "seamark:light:height": "17.4",
+    "seamark:light:period": "10",
+    "nrhp:inscription_date": "1977-09-20",
+    "seamark:light:character": "Fl"
+   },
+   "boundingbox": [
+    "39.0067800",
+    "39.0068366",
+    "-74.7915659",
+    "-74.7914930"
+   ]
+  }
+ ],
+ "PLACE|Doo Wop Experience, Wildwood, New Jersey": [
+  {
+   "place_id": 345918847,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 616349119,
+   "lat": "38.9828050",
+   "lon": "-74.8179010",
+   "category": "tourism",
+   "type": "museum",
+   "place_rank": 30,
+   "importance": 4.946746013575978e-05,
+   "addresstype": "tourism",
+   "name": "The Doo Wop Experience",
+   "display_name": "The Doo Wop Experience, 4500, Ocean Avenue, Wildwood, Cape May County, New Jersey, 08260, United States",
+   "extratags": {
+    "website": "https://www.doowopusa.org/",
+    "building": "yes",
+    "seasonal": "yes",
+    "opening_hours:url": "https://www.doowopusa.org/"
+   },
+   "boundingbox": [
+    "38.9826948",
+    "38.9829152",
+    "-74.8180433",
+    "-74.8177588"
+   ]
+  }
+ ],
+ "PLACE|Cape May Winery & Vineyard, Lower Township, New Jersey": [
+  {
+   "place_id": 346089326,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 40314026,
+   "lat": "38.9737762",
+   "lon": "-74.9227863",
+   "category": "landuse",
+   "type": "vineyard",
+   "place_rank": 24,
+   "importance": 0.08004338063630119,
+   "addresstype": "vineyard",
+   "name": "Cape May Winery",
+   "display_name": "Cape May Winery, Cold Spring, Lower Township, Cape May County, New Jersey, United States",
+   "extratags": {
+    "crop": "grape"
+   },
+   "boundingbox": [
+    "38.9729347",
+    "38.9746281",
+    "-74.9244834",
+    "-74.9218462"
+   ]
+  }
+ ],
+ "PLACE|Willow Creek Winery, West Cape May, New Jersey": [
+  {
+   "place_id": 423887574,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 530336407,
+   "lat": "38.9433489",
+   "lon": "-74.9461723",
+   "category": "craft",
+   "type": "winery",
+   "place_rank": 30,
+   "importance": 4.28969253070423e-05,
+   "addresstype": "craft",
+   "name": "Willow Creek Winery & Farm",
+   "display_name": "Willow Creek Winery & Farm, Stevens Street, West Cape May, Cape May County, New Jersey, 08204, United States",
+   "extratags": {
+    "website": "https://willowcreekwinerycapemay.com/",
+    "building": "commercial"
+   },
+   "boundingbox": [
+    "38.9431969",
+    "38.9435159",
+    "-74.9463031",
+    "-74.9460301"
+   ]
+  }
+ ],
+ "PLACE|Hawk Haven Vineyard & Winery, Middle Township, New Jersey": [],
+ "PLACE|Hawk Haven Vineyard & Winery, New Jersey": [],
+ "PLACE|Natali Vineyards, Middle Township, New Jersey": [
+  {
+   "place_id": 344110878,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 40403531,
+   "lat": "39.1262730",
+   "lon": "-74.8625773",
+   "category": "landuse",
+   "type": "vineyard",
+   "place_rank": 24,
+   "importance": 0.08004677119096663,
+   "addresstype": "vineyard",
+   "name": "Natali Vineyards",
+   "display_name": "Natali Vineyards, Middle Township, Cape May County, New Jersey, United States",
+   "extratags": null,
+   "boundingbox": [
+    "39.1251393",
+    "39.1273043",
+    "-74.8650335",
+    "-74.8593160"
+   ]
+  },
+  {
+   "place_id": 344910857,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1608143198,
+   "lat": "39.1266657",
+   "lon": "-74.8621987",
+   "category": "shop",
+   "type": "alcohol",
+   "place_rank": 30,
+   "importance": 4.6771190966613525e-05,
+   "addresstype": "shop",
+   "name": "Natali Vineyards",
+   "display_name": "Natali Vineyards, Natali Vineyards Way, Middle Township, Cape May County, New Jersey, 08210, United States",
+   "extratags": {
+    "website": "https://www.natalivineyards.com/"
+   },
+   "boundingbox": [
+    "39.1266157",
+    "39.1267157",
+    "-74.8622487",
+    "-74.8621487"
+   ]
+  }
+ ],
+ "PLACE|Cape May Brewing Company, Lower Township, New Jersey": [
+  {
+   "place_id": 345348415,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3465329426,
+   "lat": "39.0027174",
+   "lon": "-74.9126497",
+   "category": "craft",
+   "type": "brewery",
+   "place_rank": 30,
+   "importance": 4.445944914926402e-05,
+   "addresstype": "craft",
+   "name": "Cape May Brewing Company",
+   "display_name": "Cape May Brewing Company, 1288, Hornet Road, Villas, Lower Township, Cape May County, New Jersey, 08242, United States",
+   "extratags": null,
+   "boundingbox": [
+    "39.0026674",
+    "39.0027674",
+    "-74.9126997",
+    "-74.9125997"
+   ]
+  }
+ ],
+ "PLACE|7 Mile Brewery, Middle Township, New Jersey": [
+  {
+   "place_id": 345856422,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5728513749,
+   "lat": "39.0205712",
+   "lon": "-74.8699096",
+   "category": "craft",
+   "type": "brewery",
+   "place_rank": 30,
+   "importance": 4.445944914926402e-05,
+   "addresstype": "craft",
+   "name": "7 Mile Brewery",
+   "display_name": "7 Mile Brewery, 3156, Shore Road, Marlyn Manor, Rio Grande, Middle Township, Cape May County, New Jersey, 08242, United States",
+   "extratags": {
+    "opening_hours": "Mo-Sa 12:00-22:00, Su 12:00-18:00"
+   },
+   "boundingbox": [
+    "39.0205212",
+    "39.0206212",
+    "-74.8699596",
+    "-74.8698596"
+   ]
+  }
+ ],
+ "PLACE|Slack Tide Brewing Company, Middle Township, New Jersey": [],
+ "PLACE|Slack Tide Brewing Company, New Jersey": [],
+ "PLACE|Mudhen Brewing Company, Wildwood, New Jersey": [
+  {
+   "place_id": 347247943,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1128238382,
+   "lat": "38.9848308",
+   "lon": "-74.8251704",
+   "category": "amenity",
+   "type": "pub",
+   "place_rank": 30,
+   "importance": 4.946746013575978e-05,
+   "addresstype": "amenity",
+   "name": "MudHen Brewing Company",
+   "display_name": "MudHen Brewing Company, Rio Grande Avenue, Wildwood, Cape May County, New Jersey, 08260, United States",
+   "extratags": {
+    "building": "yes",
+    "microbrewery": "yes"
+   },
+   "boundingbox": [
+    "38.9846424",
+    "38.9850591",
+    "-74.8254438",
+    "-74.8248003"
+   ]
+  }
+ ],
+ "PLACE|Ocean City Boardwalk, Ocean City, New Jersey": [
+  {
+   "place_id": 344758034,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 509892553,
+   "lat": "39.2706008",
+   "lon": "-74.5807893",
+   "category": "man_made",
+   "type": "pier",
+   "place_rank": 30,
+   "importance": 5.399938963907862e-05,
+   "addresstype": "man_made",
+   "name": "Ocean City Fishing Pier",
+   "display_name": "Ocean City Fishing Pier, Boardwalk, Ocean City, Cape May County, New Jersey, 08226, United States",
+   "extratags": {
+    "foot": "private",
+    "layer": "1",
+    "mooring": "no",
+    "floating": "no"
+   },
+   "boundingbox": [
+    "39.2702112",
+    "39.2710402",
+    "-74.5811911",
+    "-74.5803177"
+   ]
+  },
+  {
+   "place_id": 344800124,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 509892551,
+   "lat": "39.2699601",
+   "lon": "-74.5799924",
+   "category": "man_made",
+   "type": "pier",
+   "place_rank": 30,
+   "importance": 5.399938963907862e-05,
+   "addresstype": "man_made",
+   "name": "Ocean City Fishing Pier",
+   "display_name": "Ocean City Fishing Pier, Boardwalk, Ocean City, Cape May County, New Jersey, 08266, United States",
+   "extratags": {
+    "foot": "private",
+    "mooring": "no",
+    "floating": "no"
+   },
+   "boundingbox": [
+    "39.2697592",
+    "39.2701610",
+    "-74.5802297",
+    "-74.5797551"
+   ]
+  },
+  {
+   "place_id": 344770221,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 508818373,
+   "lat": "39.2823729",
+   "lon": "-74.5581858",
+   "category": "amenity",
+   "type": "toilets",
+   "place_rank": 30,
+   "importance": 5.399938963907862e-05,
+   "addresstype": "amenity",
+   "name": "Ocean City Beach Patrol Headquarters",
+   "display_name": "Ocean City Beach Patrol Headquarters, Boardwalk, Ocean City, Cape May County, New Jersey, 08226, United States",
+   "extratags": {
+    "fee": "no",
+    "building": "public"
+   },
+   "boundingbox": [
+    "39.2823114",
+    "39.2824343",
+    "-74.5582650",
+    "-74.5581065"
+   ]
+  }
+ ],
+ "PLACE|Ocean City Music Pier, Ocean City, New Jersey": [
+  {
+   "place_id": 344782009,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 508522223,
+   "lat": "39.2752215",
+   "lon": "-74.5694899",
+   "category": "amenity",
+   "type": "community_centre",
+   "place_rank": 30,
+   "importance": 2.6000610360830357e-05,
+   "addresstype": "amenity",
+   "name": "Ocean City Music Pier",
+   "display_name": "Ocean City Music Pier, Boardwalk, Ocean City, Cape May County, New Jersey, 08266, United States",
+   "extratags": {
+    "layer": "1",
+    "building": "yes"
+   },
+   "boundingbox": [
+    "39.2749689",
+    "39.2755012",
+    "-74.5698633",
+    "-74.5691536"
+   ]
+  }
+ ],
+ "PLACE|Playland's Castaway Cove, Ocean City, New Jersey": [
+  {
+   "place_id": 346145388,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 166390263,
+   "lat": "39.2744124",
+   "lon": "-74.5746647",
+   "category": "tourism",
+   "type": "theme_park",
+   "place_rank": 30,
+   "importance": 2.6000610360830357e-05,
+   "addresstype": "tourism",
+   "name": "Playland's Castaway Cove",
+   "display_name": "Playland's Castaway Cove, East 10th Street, Ocean City, Cape May County, New Jersey, 08266, United States",
+   "extratags": {
+    "area": "yes",
+    "wheelchair": "limited"
+   },
+   "boundingbox": [
+    "39.2738384",
+    "39.2750488",
+    "-74.5758404",
+    "-74.5739361"
+   ]
+  }
+ ],
+ "PLACE|Ocean City Historical Museum, Ocean City, New Jersey": [
+  {
+   "place_id": 345012129,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3416217572,
+   "lat": "39.2711093",
+   "lon": "-74.5904806",
+   "category": "tourism",
+   "type": "museum",
+   "place_rank": 30,
+   "importance": 5.399938963907862e-05,
+   "addresstype": "tourism",
+   "name": "Ocean City Historical Museum",
+   "display_name": "Ocean City Historical Museum, 1735, Simpson Avenue, Ocean City, Cape May County, New Jersey, 08226, United States",
+   "extratags": {
+    "email": "info@ocnjmuseum.org",
+    "phone": "+1-609-399-1801",
+    "museum": "history",
+    "website": "https://www.ocnjmuseum.org/",
+    "opening_hours": "Mo-Sa 10:00-16:00"
+   },
+   "boundingbox": [
+    "39.2710593",
+    "39.2711593",
+    "-74.5905306",
+    "-74.5904306"
+   ]
+  }
+ ],
+ "PLACE|Corson's Inlet State Park, Ocean City, New Jersey": [
+  {
+   "place_id": 342619248,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 11727143,
+   "lat": "39.2144722",
+   "lon": "-74.6435268",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.2961343492019334,
+   "addresstype": "nature_reserve",
+   "name": "Corson's Inlet State Park",
+   "display_name": "Corson's Inlet State Park, Ocean City, Cape May County, New Jersey, United States",
+   "extratags": {
+    "website": "https://www.state.nj.us/dep/parksandforests/parks/corsons.html",
+    "boundary": "protected_area",
+    "operator": "New Jersey Division of Parks and Forestry",
+    "wikidata": "Q5173189",
+    "wikipedia": "en:Corson's Inlet State Park",
+    "protect_class": "5",
+    "protection_title": "State Park",
+    "operator:wikidata": "Q7009190"
+   },
+   "boundingbox": [
+    "39.2005621",
+    "39.2210333",
+    "-74.6590251",
+    "-74.6377908"
+   ]
+  }
+ ],
+ "PLACE|Congo Falls Adventure Golf, Ocean City, New Jersey": [
+  {
+   "place_id": 346159873,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1412296691,
+   "lat": "39.2734486",
+   "lon": "-74.5769129",
+   "category": "leisure",
+   "type": "miniature_golf",
+   "place_rank": 30,
+   "importance": 5.399938963907862e-05,
+   "addresstype": "leisure",
+   "name": "Congo Falls Adventure Golf",
+   "display_name": "Congo Falls Adventure Golf, Boardwalk, Ocean City, Cape May County, New Jersey, 08266, United States",
+   "extratags": {
+    "area": "yes"
+   },
+   "boundingbox": [
+    "39.2732096",
+    "39.2737141",
+    "-74.5772305",
+    "-74.5766030"
+   ]
+  }
+ ],
+ "PLACE|Sea Isle City Promenade, Sea Isle City, New Jersey": [
+  {
+   "place_id": 344865953,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 11604778,
+   "lat": "39.1533917",
+   "lon": "-74.6910795",
+   "category": "highway",
+   "type": "pedestrian",
+   "place_rank": 26,
+   "importance": 0.05337838330663001,
+   "addresstype": "road",
+   "name": "Sea Isle City Promenade",
+   "display_name": "Sea Isle City Promenade, Ludlam Beach Light, Sea Isle City, Cape May County, New Jersey, 08243, United States",
+   "extratags": {
+    "lit": "yes",
+    "foot": "yes",
+    "horse": "no",
+    "access": "no",
+    "oneway": "no",
+    "bicycle": "yes",
+    "surface": "asphalt",
+    "motor_vehicle": "no"
+   },
+   "boundingbox": [
+    "39.1441031",
+    "39.1630878",
+    "-74.6985394",
+    "-74.6842141"
+   ]
+  }
+ ],
+ "PLACE|Cape May-Lewes Ferry, Lower Township, New Jersey": [
+  {
+   "place_id": 344839827,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 624785804,
+   "lat": "38.9686171",
+   "lon": "-74.9596191",
+   "category": "amenity",
+   "type": "ferry_terminal",
+   "place_rank": 30,
+   "importance": 4.338063630116758e-05,
+   "addresstype": "amenity",
+   "name": "Cape May",
+   "display_name": "Cape May, Cape May-Lewes Ferry Entrance, Lower Township, Cape May County, New Jersey, 08212, United States",
+   "extratags": {
+    "ferry": "yes",
+    "public_transport": "stop_position"
+   },
+   "boundingbox": [
+    "38.9685671",
+    "38.9686671",
+    "-74.9596691",
+    "-74.9595691"
+   ]
+  }
+ ],
+ "PLACE|Naval Air Station Wildwood Aviation Museum, Lower Township, New Jersey": [
+  {
+   "place_id": 342618088,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 261973778,
+   "lat": "39.0050816",
+   "lon": "-74.9097037",
+   "category": "tourism",
+   "type": "museum",
+   "place_rank": 30,
+   "importance": 0.2647815871063118,
+   "addresstype": "tourism",
+   "name": "Naval Air Station Wildwood Aviation Museum",
+   "display_name": "Naval Air Station Wildwood Aviation Museum, Essex Road, Villas, Lower Township, Cape May County, New Jersey, 08242, United States",
+   "extratags": {
+    "website": "https://usnasw.org/",
+    "building": "hangar",
+    "heritage": "2",
+    "historic": "military",
+    "ref:nrhp": "97000935",
+    "wikidata": "Q6981727",
+    "wikipedia": "en:Naval Air Station Wildwood Aviation Museum",
+    "source_ref": "https://npgallery.nps.gov/NRHP/AssetDetail/4a7ddf6e-2ed1-4dcf-b5d9-b333b5101920",
+    "start_date": "1943",
+    "nrhp:criteria": "A;C",
+    "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+    "protection_title": "Cape May Airport",
+    "heritage:operator": "nrhp",
+    "nrhp:inscription_date": "1997-08-21"
+   },
+   "boundingbox": [
+    "39.0046928",
+    "39.0054918",
+    "-74.9100899",
+    "-74.9093177"
+   ]
+  }
+ ],
+ "PLACE|Historic Cold Spring Village, Lower Township, New Jersey": [
+  {
+   "place_id": 344929971,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 40412271,
+   "lat": "38.9766592",
+   "lon": "-74.9120079",
+   "category": "landuse",
+   "type": "recreation_ground",
+   "place_rank": 24,
+   "importance": 0.08004338063630119,
+   "addresstype": "recreation_ground",
+   "name": "Historic Cold Spring Village",
+   "display_name": "Historic Cold Spring Village, Erma, Lower Township, Cape May County, New Jersey, United States",
+   "extratags": null,
+   "boundingbox": [
+    "38.9750625",
+    "38.9785266",
+    "-74.9140454",
+    "-74.9105034"
+   ]
+  }
+ ],
+ "PLACE|Belleplain State Forest, Dennis Township, New Jersey": [
+  {
+   "place_id": 345450181,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 28595409,
+   "lat": "39.2514980",
+   "lon": "-74.8496527",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.31017616620231897,
+   "addresstype": "nature_reserve",
+   "name": "Belleplain State Forest",
+   "display_name": "Belleplain State Forest, Dennis Township, Cape May County, New Jersey, United States",
+   "extratags": {
+    "boundary": "protected_area",
+    "wikidata": "Q4883801",
+    "protected_area": "forest_reserve",
+    "protection_title": "State Forest"
+   },
+   "boundingbox": [
+    "39.2059213",
+    "39.2967131",
+    "-74.9016377",
+    "-74.8073956"
+   ]
+  },
+  {
+   "place_id": 346744227,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1075896099,
+   "lat": "39.2485647",
+   "lon": "-74.8428182",
+   "category": "office",
+   "type": "forestry",
+   "place_rank": 30,
+   "importance": 4.498741130688971e-05,
+   "addresstype": "office",
+   "name": "Belleplain State Forest",
+   "display_name": "Belleplain State Forest, North Shore Trail, Dennis Township, Cape May County, New Jersey, 08270, United States",
+   "extratags": {
+    "building": "yes"
+   },
+   "boundingbox": [
+    "39.2484666",
+    "39.2486616",
+    "-74.8429161",
+    "-74.8427088"
+   ]
+  }
+ ],
+ "PLACE|Leaming's Run Gardens, Middle Township, New Jersey": [],
+ "PLACE|Leaming's Run Gardens, New Jersey": [],
+ "PLACE|Cape May Bird Observatory, Cape May Point, New Jersey": [],
+ "PLACE|Cape May Bird Observatory, New Jersey": [],
+ "PLACE|Barnegat Lighthouse State Park, Barnegat Light, New Jersey": [
+  {
+   "place_id": 344056107,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 10410758,
+   "lat": "39.7635597",
+   "lon": "-74.1051699",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.29396319343666205,
+   "addresstype": "nature_reserve",
+   "name": "Barnegat Lighthouse State Park",
+   "display_name": "Barnegat Lighthouse State Park, Barnegat Light, Ocean County, New Jersey, United States",
+   "extratags": {
+    "website": "https://www.state.nj.us/dep/parksandforests/parks/barnlig.html",
+    "operator": "New Jersey Department of Environmental Protection",
+    "wikidata": "Q4861485",
+    "wikipedia": "en:Barnegat Lighthouse State Park"
+   },
+   "boundingbox": [
+    "39.7623061",
+    "39.7646638",
+    "-74.1089361",
+    "-74.1014280"
+   ]
+  }
+ ],
+ "PLACE|Island Beach State Park, Berkeley Township, New Jersey": [
+  {
+   "place_id": 344176064,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 8294699,
+   "lat": "39.8350592",
+   "lon": "-74.0893066",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.32316133360556143,
+   "addresstype": "nature_reserve",
+   "name": "Island Beach State Park",
+   "display_name": "Island Beach State Park, Berkeley Township, Ocean County, New Jersey, United States",
+   "extratags": {
+    "boundary": "protected_area",
+    "wikidata": "Q6083013",
+    "wikipedia": "en:Island Beach State Park",
+    "protect_class": "5",
+    "protected_area": "shore_reserve",
+    "protection_title": "State Park"
+   },
+   "boundingbox": [
+    "39.7581395",
+    "39.9059206",
+    "-74.1245238",
+    "-74.0778145"
+   ]
+  }
+ ],
+ "PLACE|Casino Pier, Seaside Heights, New Jersey": [
+  {
+   "place_id": 344209616,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 358266617,
+   "lat": "39.9429582",
+   "lon": "-74.0694380",
+   "category": "tourism",
+   "type": "theme_park",
+   "place_rank": 30,
+   "importance": 0.26001653813030656,
+   "addresstype": "tourism",
+   "name": "Casino Pier",
+   "display_name": "Casino Pier, Seaside Heights Boardwalk, Seaside Heights, Ocean County, New Jersey, 08751, United States",
+   "extratags": {
+    "wikidata": "Q5048868"
+   },
+   "boundingbox": [
+    "39.9422192",
+    "39.9437259",
+    "-74.0701691",
+    "-74.0689136"
+   ]
+  }
+ ],
+ "PLACE|Breakwater Beach, Seaside Heights, New Jersey": [
+  {
+   "place_id": 345462196,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 358369596,
+   "lat": "39.9429702",
+   "lon": "-74.0722836",
+   "category": "leisure",
+   "type": "water_park",
+   "place_rank": 30,
+   "importance": 4.833981841759392e-05,
+   "addresstype": "leisure",
+   "name": "Breakwater Beach",
+   "display_name": "Breakwater Beach, Grant Avenue, Seaside Heights, Ocean County, New Jersey, 08751, United States",
+   "extratags": {
+    "tourism": "theme_park"
+   },
+   "boundingbox": [
+    "39.9425912",
+    "39.9433356",
+    "-74.0733163",
+    "-74.0711083"
+   ]
+  }
+ ],
+ "PLACE|Jenkinson's Boardwalk, Point Pleasant Beach, New Jersey": [],
+ "PLACE|Jenkinson's Boardwalk, New Jersey": [],
+ "PLACE|Jenkinson's Aquarium, Point Pleasant Beach, New Jersey": [
+  {
+   "place_id": 358154534,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 267831648,
+   "lat": "40.0947273",
+   "lon": "-74.0364873",
+   "category": "tourism",
+   "type": "aquarium",
+   "place_rank": 30,
+   "importance": 4.996643015178176e-05,
+   "addresstype": "tourism",
+   "name": "Jenkinson's Aquarium",
+   "display_name": "Jenkinson's Aquarium, Point Pleasant Boardwalk, Point Pleasant Beach, Ocean County, New Jersey, 08742, United States",
+   "extratags": {
+    "building": "yes"
+   },
+   "boundingbox": [
+    "40.0944534",
+    "40.0950076",
+    "-74.0366843",
+    "-74.0361963"
+   ]
+  }
+ ],
+ "PLACE|Fantasy Island Amusement Park, Beach Haven, New Jersey": [],
+ "PLACE|Fantasy Island Amusement Park, New Jersey": [],
+ "PLACE|Long Beach Island Historical Museum, Beach Haven, New Jersey": [
+  {
+   "place_id": 344312362,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 699993699,
+   "lat": "39.5624424",
+   "lon": "-74.2385592",
+   "category": "tourism",
+   "type": "museum",
+   "place_rank": 30,
+   "importance": 4.713893339432391e-05,
+   "addresstype": "tourism",
+   "name": "Long Beach Island Historical Museum",
+   "display_name": "Long Beach Island Historical Museum, 129, Engleside Avenue, Beach Haven Historic District, Beach Haven, Ocean County, New Jersey, 08008, United States",
+   "extratags": {
+    "fee": "yes",
+    "phone": "+1-609-492-0700",
+    "name_1": "LBI Historic Museum",
+    "website": "https://www.lbimuseum.com/",
+    "building": "yes",
+    "opening_hours": "Jun,Sep 12:00-16:00; Jul,Aug 10:00-16:00 || \"by appointment\""
+   },
+   "boundingbox": [
+    "39.5622555",
+    "39.5625593",
+    "-74.2387906",
+    "-74.2383858"
+   ]
+  }
+ ],
+ "PLACE|Surflight Theatre, Beach Haven, New Jersey": [
+  {
+   "place_id": 343624181,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 699524750,
+   "lat": "39.5626608",
+   "lon": "-74.2390938",
+   "category": "amenity",
+   "type": "theatre",
+   "place_rank": 30,
+   "importance": 0.14389741120638372,
+   "addresstype": "amenity",
+   "name": "Surflight Theatre",
+   "display_name": "Surflight Theatre, 201, Engleside Avenue, Beach Haven Historic District, Beach Haven, Ocean County, New Jersey, 08008, United States",
+   "extratags": {
+    "website": "https://www.surflight.org",
+    "building": "yes",
+    "wikidata": "Q17026713",
+    "wikipedia": "en:Surflight Theatre"
+   },
+   "boundingbox": [
+    "39.5624711",
+    "39.5628668",
+    "-74.2394285",
+    "-74.2387586"
+   ]
+  }
+ ],
+ "PLACE|Thundering Surf Waterpark, Beach Haven, New Jersey": [
+  {
+   "place_id": 344163687,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 38575833,
+   "lat": "39.5690674",
+   "lon": "-74.2378487",
+   "category": "leisure",
+   "type": "water_park",
+   "place_rank": 30,
+   "importance": 4.713893339432391e-05,
+   "addresstype": "leisure",
+   "name": "Thundering Surf Waterpark",
+   "display_name": "Thundering Surf Waterpark, 300, Taylor Avenue, Beach Haven, Ocean County, New Jersey, 08008, United States",
+   "extratags": {
+    "phone": "+1-609-492-0869",
+    "website": "https://thunderingsurfwaterpark.com"
+   },
+   "boundingbox": [
+    "39.5687063",
+    "39.5694555",
+    "-74.2382129",
+    "-74.2370585"
+   ]
+  }
+ ],
+ "PLACE|Tuckerton Seaport, Tuckerton, New Jersey": [
+  {
+   "place_id": 344425842,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 10905539,
+   "lat": "39.6015138",
+   "lon": "-74.3426033",
+   "category": "tourism",
+   "type": "museum",
+   "place_rank": 30,
+   "importance": 4.431906614781441e-05,
+   "addresstype": "tourism",
+   "name": "Tuckerton Seaport",
+   "display_name": "Tuckerton Seaport, Water Street, Scow Landing, Tuckerton, Ocean County, New Jersey, 08087, United States",
+   "extratags": null,
+   "boundingbox": [
+    "39.5999664",
+    "39.6030305",
+    "-74.3437652",
+    "-74.3406993"
+   ]
+  },
+  {
+   "place_id": 343522974,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 6708864078,
+   "lat": "39.6017483",
+   "lon": "-74.3423216",
+   "category": "amenity",
+   "type": "ferry_terminal",
+   "place_rank": 30,
+   "importance": 4.431906614781441e-05,
+   "addresstype": "amenity",
+   "name": "Tuckerton Seaport",
+   "display_name": "Tuckerton Seaport, Bartlett Lane, Scow Landing, Tuckerton, Ocean County, New Jersey, 08087, United States",
+   "extratags": {
+    "ferry": "yes",
+    "public_transport": "station"
+   },
+   "boundingbox": [
+    "39.6016983",
+    "39.6017983",
+    "-74.3423716",
+    "-74.3422716"
+   ]
+  }
+ ],
+ "PLACE|Tuckerton Beer Company, Tuckerton, New Jersey": [],
+ "PLACE|Tuckerton Beer Company, New Jersey": [],
+ "PLACE|Pinelands Brewing Company, Little Egg Harbor Township, New Jersey": [
+  {
+   "place_id": 344130380,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 963517066,
+   "lat": "39.6161157",
+   "lon": "-74.3440748",
+   "category": "craft",
+   "type": "brewery",
+   "place_rank": 30,
+   "importance": 4.608606088345186e-05,
+   "addresstype": "craft",
+   "name": "Pinelands Brewing Company",
+   "display_name": "Pinelands Brewing Company, 140, 7th Avenue, Nugentown, Little Egg Harbor Township, Ocean County, New Jersey, 08087, United States",
+   "extratags": {
+    "building": "yes"
+   },
+   "boundingbox": [
+    "39.6160572",
+    "39.6162898",
+    "-74.3445243",
+    "-74.3427505"
+   ]
+  },
+  {
+   "place_id": 344151243,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10922913523,
+   "lat": "39.6161889",
+   "lon": "-74.3441385",
+   "category": "craft",
+   "type": "brewery",
+   "place_rank": 30,
+   "importance": 4.608606088345186e-05,
+   "addresstype": "craft",
+   "name": "Pinelands Brewing Company",
+   "display_name": "Pinelands Brewing Company, 140, 7th Avenue, Nugentown, Little Egg Harbor Township, Ocean County, New Jersey, 08087, United States",
+   "extratags": {
+    "website": "https://www.pinelandsbrewing.com/"
+   },
+   "boundingbox": [
+    "39.6161389",
+    "39.6162389",
+    "-74.3441885",
+    "-74.3440885"
+   ]
+  }
+ ],
+ "PLACE|Ship Bottom Brewery, Ship Bottom, New Jersey": [],
+ "PLACE|Ship Bottom Brewery, New Jersey": [],
+ "PLACE|Cattus Island County Park, Toms River, New Jersey": [
+  {
+   "place_id": 345560037,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 8464739,
+   "lat": "39.9861496",
+   "lon": "-74.1209300",
+   "category": "leisure",
+   "type": "park",
+   "place_rank": 24,
+   "importance": 0.22274623325780465,
+   "addresstype": "park",
+   "name": "Cattus Island County Park",
+   "display_name": "Cattus Island County Park, 1170, Toms River, Ocean County, New Jersey, 08753, United States",
+   "extratags": {
+    "wikidata": "Q5054173"
+   },
+   "boundingbox": [
+    "39.9777956",
+    "39.9944958",
+    "-74.1387405",
+    "-74.1125712"
+   ]
+  }
+ ],
+ "PLACE|Double Trouble State Park, Berkeley Township, New Jersey": [
+  {
+   "place_id": 345196578,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 11017653,
+   "lat": "39.9001244",
+   "lon": "-74.2665750",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.2901765588551152,
+   "addresstype": "nature_reserve",
+   "name": "Double Trouble State Park",
+   "display_name": "Double Trouble State Park, Lacey Township, Ocean County, New Jersey, United States",
+   "extratags": {
+    "website": "https://www.state.nj.us/dep/parksandforests/parks/double.html",
+    "boundary": "protected_area",
+    "operator": "New Jersey Division of Parks and Forestry",
+    "wikidata": "Q5299927",
+    "wikipedia": "en:Double Trouble State Park, New Jersey",
+    "protect_class": "5",
+    "protection_title": "State Park",
+    "operator:wikidata": "Q7009190"
+   },
+   "boundingbox": [
+    "39.8642257",
+    "39.9359595",
+    "-74.3200801",
+    "-74.2111681"
+   ]
+  }
+ ],
+ "PLACE|Toms River Seaport Society Maritime Museum, Toms River, New Jersey": [],
+ "PLACE|Toms River Seaport Society Maritime Museum, New Jersey": [],
+ "PLACE|Seaside Heights Boardwalk, Seaside Heights, New Jersey": [
+  {
+   "place_id": 344139118,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 358266625,
+   "lat": "39.9395970",
+   "lon": "-74.0710356",
+   "category": "highway",
+   "type": "path",
+   "place_rank": 27,
+   "importance": 0.04004833981841763,
+   "addresstype": "road",
+   "name": "Seaside Heights Boardwalk",
+   "display_name": "Seaside Heights Boardwalk, Seaside Heights, Ocean County, New Jersey, 08751, United States",
+   "extratags": {
+    "bridge": "boardwalk",
+    "surface": "wood"
+   },
+   "boundingbox": [
+    "39.9368312",
+    "39.9423902",
+    "-74.0718202",
+    "-74.0704219"
+   ]
+  }
+ ],
+ "PLACE|Point Pleasant Beach Boardwalk, Point Pleasant Beach, New Jersey": [
+  {
+   "place_id": 358760247,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 350210669,
+   "lat": "40.0927535",
+   "lon": "-74.0368665",
+   "category": "amenity",
+   "type": "police",
+   "place_rank": 30,
+   "importance": 4.996643015178176e-05,
+   "addresstype": "amenity",
+   "name": "Point Pleasant Beach Police Boardwalk Station",
+   "display_name": "Point Pleasant Beach Police Boardwalk Station, Point Pleasant Boardwalk, Point Pleasant Beach, Ocean County, New Jersey, 08742, United States",
+   "extratags": {
+    "building": "yes"
+   },
+   "boundingbox": [
+    "40.0926971",
+    "40.0928070",
+    "-74.0369351",
+    "-74.0367971"
+   ]
+  },
+  {
+   "place_id": 356438921,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 580196097,
+   "lat": "40.0895085",
+   "lon": "-74.0379870",
+   "category": "leisure",
+   "type": "miniature_golf",
+   "place_rank": 30,
+   "importance": 4.996643015178176e-05,
+   "addresstype": "leisure",
+   "name": "Lighthouse Point Miniature Golf",
+   "display_name": "Lighthouse Point Miniature Golf, Point Pleasant Boardwalk, Point Pleasant Beach, Ocean County, New Jersey, 08742, United States",
+   "extratags": null,
+   "boundingbox": [
+    "40.0893369",
+    "40.0896550",
+    "-74.0384129",
+    "-74.0375714"
+   ]
+  }
+ ],
+ "PLACE|Lavallette Boardwalk, Lavallette, New Jersey": [
+  {
+   "place_id": 344205600,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 255169804,
+   "lat": "39.9685401",
+   "lon": "-74.0661576",
+   "category": "highway",
+   "type": "pedestrian",
+   "place_rank": 26,
+   "importance": 0.05336833524071104,
+   "addresstype": "road",
+   "name": "Lavallette Boardwalk",
+   "display_name": "Lavallette Boardwalk, Lavallette, Ocean County, New Jersey, 08735, United States",
+   "extratags": {
+    "surface": "wood"
+   },
+   "boundingbox": [
+    "39.9595648",
+    "39.9775602",
+    "-74.0677951",
+    "-74.0646778"
+   ]
+  }
+ ],
+ "PLACE|Ventnor Boardwalk, Ventnor City, New Jersey": [
+  {
+   "place_id": 341717412,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 588255969,
+   "lat": "39.3369918",
+   "lon": "-74.4776115",
+   "category": "highway",
+   "type": "pedestrian",
+   "place_rank": 26,
+   "importance": 0.05337977950713356,
+   "addresstype": "road",
+   "name": "Ventnor City Boardwalk",
+   "display_name": "Ventnor City Boardwalk, Ventnor City, Atlantic County, New Jersey, 08406, United States",
+   "extratags": {
+    "foot": "permissive",
+    "layer": "1",
+    "bridge": "boardwalk",
+    "bicycle": "designated",
+    "surface": "wood",
+    "motor_vehicle": "no"
+   },
+   "boundingbox": [
+    "39.3306245",
+    "39.3433502",
+    "-74.4907298",
+    "-74.4644888"
+   ]
+  }
+ ],
+ "PLACE|Brigantine Beach Nature Area, Brigantine, New Jersey": [],
+ "PLACE|Brigantine Beach Nature Area, New Jersey": [],
+ "PLACE|Linwood Bike Path, Linwood, New Jersey": [],
+ "PLACE|Linwood Bike Path, New Jersey": [],
+ "PLACE|Somers Point Beach, Somers Point, New Jersey": [],
+ "PLACE|Somers Point Beach, New Jersey": [],
+ "PLACE|Cape May Promenade, Cape May, New Jersey": [
+  {
+   "place_id": 341373993,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 261177122,
+   "lat": "38.9302634",
+   "lon": "-74.9217439",
+   "category": "highway",
+   "type": "pedestrian",
+   "place_rank": 26,
+   "importance": 0.05338557946135649,
+   "addresstype": "road",
+   "name": "Cape May Promenade",
+   "display_name": "Cape May Promenade, Cape May, Cape May County, New Jersey, 18204, United States",
+   "extratags": {
+    "horse": "no",
+    "oneway": "no",
+    "bicycle": "yes",
+    "surface": "asphalt"
+   },
+   "boundingbox": [
+    "38.9298634",
+    "38.9319985",
+    "-74.9344305",
+    "-74.9092312"
+   ]
+  }
+ ],
+ "PLACE|Noyes Arts Garage, New Jersey": [
+  {
+   "place_id": 357325011,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10969684059,
+   "lat": "39.3603190",
+   "lon": "-74.4409340",
+   "category": "tourism",
+   "type": "gallery",
+   "place_rank": 30,
+   "importance": 6.705195696951274e-05,
+   "addresstype": "tourism",
+   "name": "Noyes Arts Garage",
+   "display_name": "Noyes Arts Garage, 2200, Fairmount Avenue, Ducktown, Westside, Atlantic City, Atlantic County, New Jersey, 08401, United States",
+   "extratags": null,
+   "boundingbox": [
+    "39.3602690",
+    "39.3603690",
+    "-74.4409840",
+    "-74.4408840"
+   ]
+  }
+ ],
+ "PLACE|Hawk Haven, New Jersey": [
+  {
+   "place_id": 342616494,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 40395050,
+   "lat": "39.0118402",
+   "lon": "-74.8895748",
+   "category": "landuse",
+   "type": "vineyard",
+   "place_rank": 24,
+   "importance": 0.31017616620231897,
+   "addresstype": "vineyard",
+   "name": "Hawk Haven Vineward and Winery",
+   "display_name": "Hawk Haven Vineward and Winery, Erma Park, Villas, Lower Township, Cape May County, New Jersey, United States",
+   "extratags": {
+    "crop": "grape",
+    "wikidata": "Q14705545"
+   },
+   "boundingbox": [
+    "39.0081967",
+    "39.0163886",
+    "-74.8938270",
+    "-74.8860262"
+   ]
+  },
+  {
+   "place_id": 357259072,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 778659137,
+   "lat": "40.0046107",
+   "lon": "-75.0409741",
+   "category": "highway",
+   "type": "footway",
+   "place_rank": 27,
+   "importance": 0.04004802548256656,
+   "addresstype": "road",
+   "name": "Hawk Haven Trail",
+   "display_name": "Hawk Haven Trail, Palmyra, Burlington County, New Jersey, 19135, United States",
+   "extratags": {
+    "bicycle": "no"
+   },
+   "boundingbox": [
+    "40.0041726",
+    "40.0052038",
+    "-75.0416235",
+    "-75.0409083"
+   ]
+  }
+ ],
+ "PLACE|Slack Tide Brewing, New Jersey": [],
+ "PLACE|Slack Tide Brewing": [],
+ "PLACE|Leaming's Run, New Jersey": [],
+ "PLACE|Leaming's Run": [],
+ "PLACE|Northwood Center, New Jersey": [
+  {
+   "place_id": 342643798,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 11041434,
+   "lat": "38.9403856",
+   "lon": "-74.9621795",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.08004277790493626,
+   "addresstype": "nature_reserve",
+   "name": "Cape May Bird Observatory - Northwood Center",
+   "display_name": "Cape May Bird Observatory - Northwood Center, Cape May Point, Cape May County, New Jersey, United States",
+   "extratags": {
+    "website": "https://njaudubon.org/centers/cape-may-bird-observatory/",
+    "boundary": "protected_area",
+    "protect_class": "4"
+   },
+   "boundingbox": [
+    "38.9400009",
+    "38.9407816",
+    "-74.9625787",
+    "-74.9617728"
+   ]
+  }
+ ],
+ "PLACE|Jenkinson's Pavilion, New Jersey": [],
+ "PLACE|Jenkinson's Pavilion": [],
+ "PLACE|Fantasy Island, New Jersey": [
+  {
+   "place_id": 341997675,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 38575846,
+   "lat": "39.5683659",
+   "lon": "-74.2377964",
+   "category": "tourism",
+   "type": "theme_park",
+   "place_rank": 30,
+   "importance": 4.713893339432391e-05,
+   "addresstype": "tourism",
+   "name": "Fantasy Island",
+   "display_name": "Fantasy Island, 320, 7th Street, Beach Haven, Ocean County, New Jersey, 08008, United States",
+   "extratags": {
+    "website": "https://www.fantasyislandlbi.com",
+    "opening_hours:url": "https://www.fantasyislandlbi.com/park-info/"
+   },
+   "boundingbox": [
+    "39.5678483",
+    "39.5688752",
+    "-74.2386354",
+    "-74.2369541"
+   ]
+  }
+ ],
+ "PLACE|Tuckerton Beer, New Jersey": [],
+ "PLACE|Tuckerton Beer": [
+  {
+   "place_id": 344281932,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1347903287,
+   "lat": "39.6025241",
+   "lon": "-74.3419079",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 4.431906614781441e-05,
+   "addresstype": "amenity",
+   "name": "Stewarts Root Beer",
+   "display_name": "Stewarts Root Beer, 102, West Main Street, Scow Landing, Tuckerton, Ocean County, New Jersey, 08087, United States",
+   "extratags": {
+    "cuisine": "american;seafood",
+    "building": "yes"
+   },
+   "boundingbox": [
+    "39.6023722",
+    "39.6026204",
+    "-74.3420355",
+    "-74.3417507"
+   ]
+  }
+ ],
+ "PLACE|Ship Bottom Brewery Beach Haven, New Jersey": [],
+ "PLACE|Ship Bottom Brewery Beach Haven": [],
+ "PLACE|Toms River Seaport Society, New Jersey": [
+  {
+   "place_id": 344332738,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1099211400,
+   "lat": "39.9512801",
+   "lon": "-74.1936447",
+   "category": "tourism",
+   "type": "museum",
+   "place_rank": 30,
+   "importance": 5.4191653314977e-05,
+   "addresstype": "tourism",
+   "name": "Toms River Seaport Society",
+   "display_name": "Toms River Seaport Society, Hooper Avenue, Downtown, Toms River, Ocean County, New Jersey, 08723, United States",
+   "extratags": {
+    "museum": "history",
+    "building": "yes"
+   },
+   "boundingbox": [
+    "39.9512342",
+    "39.9513259",
+    "-74.1937041",
+    "-74.1935853"
+   ]
+  }
+ ],
+ "PLACE|Brigantine Natural Area, New Jersey": [
+  {
+   "place_id": 341332542,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 868369392,
+   "lat": "39.4319637",
+   "lon": "-74.3510188",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.0800464797436484,
+   "addresstype": "nature_reserve",
+   "name": "North Brigantine Natural Area",
+   "display_name": "North Brigantine Natural Area, Brigantine, Atlantic County, New Jersey, United States",
+   "extratags": {
+    "access": "yes",
+    "boundary": "protected_area",
+    "operator": "New Jersey Department of Environmental Protection Division of Parks and Forestry",
+    "protect_class": "5",
+    "protection_title": "State Conservation Area"
+   },
+   "boundingbox": [
+    "39.4167470",
+    "39.4468519",
+    "-74.3690747",
+    "-74.3266300"
+   ]
+  }
+ ],
+ "PLACE|Linwood Bikeway, New Jersey": [],
+ "PLACE|Linwood Bikeway": [
+  {
+   "place_id": 342626911,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 475137030,
+   "lat": "39.3423508",
+   "lon": "-74.5767030",
+   "category": "highway",
+   "type": "cycleway",
+   "place_rank": 27,
+   "importance": 0.04004707942320896,
+   "addresstype": "road",
+   "name": "George K. Francis Bikeway",
+   "display_name": "George K. Francis Bikeway, Belhaven, Linwood, Atlantic County, New Jersey, 08221, United States",
+   "extratags": {
+    "foot": "yes",
+    "bicycle": "designated",
+    "railway": "abandoned",
+    "surface": "asphalt",
+    "old_railway_operator": "PRSL (PRR)"
+   },
+   "boundingbox": [
+    "39.3411362",
+    "39.3436283",
+    "-74.5777227",
+    "-74.5757633"
+   ]
+  },
+  {
+   "place_id": 346753179,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1423950955,
+   "lat": "39.3303737",
+   "lon": "-74.5863837",
+   "category": "highway",
+   "type": "cycleway",
+   "place_rank": 27,
+   "importance": 0.040046958876935976,
+   "addresstype": "road",
+   "name": "George K. Francis Bikeway",
+   "display_name": "George K. Francis Bikeway, Kirklin Manor, Steelmanville, Linwood, Atlantic County, New Jersey, 08244, United States",
+   "extratags": {
+    "foot": "yes",
+    "bicycle": "designated",
+    "railway": "abandoned",
+    "surface": "asphalt",
+    "old_railway_operator": "PRSL (PRR)"
+   },
+   "boundingbox": [
+    "39.3294580",
+    "39.3313012",
+    "-74.5871168",
+    "-74.5856646"
+   ]
+  },
+  {
+   "place_id": 342638467,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 810786260,
+   "lat": "39.3470872",
+   "lon": "-74.5728729",
+   "category": "highway",
+   "type": "cycleway",
+   "place_rank": 27,
+   "importance": 0.0400466750591287,
+   "addresstype": "road",
+   "name": "George K. Francis Bikeway",
+   "display_name": "George K. Francis Bikeway, Wood Lynne Manor, Linwood, Atlantic County, New Jersey, 08221, United States",
+   "extratags": {
+    "foot": "yes",
+    "bicycle": "designated",
+    "railway": "abandoned",
+    "surface": "asphalt",
+    "old_railway_operator": "PRSL (PRR)"
+   },
+   "boundingbox": [
+    "39.3456777",
+    "39.3485512",
+    "-74.5740473",
+    "-74.5717685"
+   ]
+  }
+ ],
+ "PLACE|Somers Point Municipal Beach, New Jersey": [],
+ "PLACE|Somers Point Municipal Beach": [],
+ "CITY|New Egypt, New Jersey": {
+  "place_id": 359467183,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170961,
+  "lat": "40.0654375",
+  "lon": "-74.5226681",
+  "category": "boundary",
+  "type": "census",
+  "place_rank": 25,
+  "importance": 0.39635455236634,
+  "addresstype": "census",
+  "name": "New Egypt",
+  "display_name": "New Egypt, Plumsted Township, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "40.0435610",
+   "40.0874130",
+   "-74.5531050",
+   "-74.4997240"
+  ]
+ },
+ "CITY|Whiting, New Jersey": {
+  "place_id": 345804035,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 158859508,
+  "lat": "39.9545613",
+  "lon": "-74.3784815",
+  "category": "place",
+  "type": "hamlet",
+  "place_rank": 20,
+  "importance": 0.3489254561527194,
+  "addresstype": "hamlet",
+  "name": "Whiting",
+  "display_name": "Whiting, Manchester Township, Ocean County, New Jersey, 08769, United States",
+  "boundingbox": [
+   "39.9345613",
+   "39.9745613",
+   "-74.3984815",
+   "-74.3584815"
+  ]
+ },
+ "CITY|Bayhead, New Jersey": {
+  "place_id": 360563996,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 11658868,
+  "lat": "40.4608272",
+  "lon": "-74.2759658",
+  "category": "highway",
+  "type": "residential",
+  "place_rank": 26,
+  "importance": 0.05338476005188064,
+  "addresstype": "road",
+  "name": "Bayhead Drive",
+  "display_name": "Bayhead Drive, Morgan, Sayreville, Middlesex County, New Jersey, 08859, United States",
+  "boundingbox": [
+   "40.4601181",
+   "40.4614015",
+   "-74.2765722",
+   "-74.2752075"
+  ]
+ },
+ "CITY|Lakewood, New Jersey": {
+  "place_id": 359394359,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962545,
+  "lat": "40.0940995",
+  "lon": "-74.2149889",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.49699652226630375,
+  "addresstype": "city",
+  "name": "Lakewood Township",
+  "display_name": "Lakewood Township, Ocean County, New Jersey, 08701, United States",
+  "boundingbox": [
+   "40.0239227",
+   "40.1203643",
+   "-74.2586431",
+   "-74.1511110"
+  ]
+ },
+ "CITY|Jackson, New Jersey": {
+  "place_id": 344641461,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 158873044,
+  "lat": "39.7765048",
+  "lon": "-74.8623849",
+  "category": "place",
+  "type": "hamlet",
+  "place_rank": 20,
+  "importance": 0.31568281446101826,
+  "addresstype": "hamlet",
+  "name": "Jackson",
+  "display_name": "Jackson, Waterford Township, Camden County, New Jersey, 08004, United States",
+  "boundingbox": [
+   "39.7565048",
+   "39.7965048",
+   "-74.8823849",
+   "-74.8423849"
+  ]
+ },
+ "CITY|Cream Ridge, New Jersey": {
+  "place_id": 356978569,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 18398161,
+  "lat": "40.1312275",
+  "lon": "-74.5350037",
+  "category": "boundary",
+  "type": "census",
+  "place_rank": 25,
+  "importance": 0.37526729549138227,
+  "addresstype": "census",
+  "name": "Cream Ridge",
+  "display_name": "Cream Ridge, Upper Freehold Township, Monmouth County, New Jersey, United States",
+  "boundingbox": [
+   "40.1132090",
+   "40.1492350",
+   "-74.5601580",
+   "-74.5166650"
+  ]
+ },
+ "CITY|Long Beach, New Jersey": {
+  "place_id": 344985652,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 962544,
+  "lat": "39.6162477",
+  "lon": "-74.1997058",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.4158085039066356,
+  "addresstype": "village",
+  "name": "Long Beach Township",
+  "display_name": "Long Beach Township, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "39.5082160",
+   "39.7770940",
+   "-74.2961190",
+   "-74.1115523"
+  ]
+ },
+ "CITY|Lakehurst, New Jersey": {
+  "place_id": 358201009,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 170320,
+  "lat": "40.0145610",
+  "lon": "-74.3112574",
+  "category": "boundary",
+  "type": "administrative",
+  "place_rank": 16,
+  "importance": 0.456639707780876,
+  "addresstype": "village",
+  "name": "Lakehurst",
+  "display_name": "Lakehurst, Ocean County, New Jersey, United States",
+  "boundingbox": [
+   "40.0041350",
+   "40.0216444",
+   "-74.3317671",
+   "-74.2984650"
+  ]
+ }
+}

@@ -1,0 +1,2265 @@
+{
+ "generated": "2026-10-17",
+ "acs_release": {
+  "id": "acs2024_5yr",
+  "name": "ACS 2024 5-year",
+  "years": "2020-2024"
+ },
+ "towns": {
+  "point-pleasant-beach": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 850300,
+    "moe": 69057,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402959910",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402959910",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Point Pleasant Beach borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.803,
+    "effective_rate": 1.095,
+    "district": "PT PLEASANT BEACH BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 60.93,
+    "district_code": "1526",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Point%20Pleasant%20Beach%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Point-Pleasant-Beach_NJ",
+    "zillow": "https://www.zillow.com/point-pleasant-beach-nj/"
+   }
+  },
+  "bay-head": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 1864000,
+    "moe": 317361,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402903520",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402903520",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Bay Head borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.105,
+    "effective_rate": 0.646,
+    "district": "BAY HEAD BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 58.51,
+    "district_code": "1503",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Bay%20Head%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Bay-Head_NJ",
+    "zillow": "https://www.zillow.com/bay-head-nj/"
+   }
+  },
+  "mantoloking": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 2000001,
+    "moe": null,
+    "topcoded": true,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402943380",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402943380",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Mantoloking borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 0.912,
+    "effective_rate": 0.531,
+    "district": "MANTOLOKING BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 58.28,
+    "district_code": "1520",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Mantoloking%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Mantoloking_NJ",
+    "zillow": "https://www.zillow.com/mantoloking-nj/"
+   }
+  },
+  "brick-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 410600,
+    "moe": 10327,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402907420",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402907420",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Brick township, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.664,
+    "effective_rate": 1.575,
+    "district": "BRICK TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 59.18,
+    "district_code": "1507",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Brick%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Brick-Township_NJ",
+    "zillow": "https://www.zillow.com/brick-township-nj/"
+   }
+  },
+  "toms-river": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 416700,
+    "moe": 9685,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402973125",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402973125",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Toms River township, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.902,
+    "effective_rate": 1.523,
+    "district": "TOMS RIVER TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 80.22,
+    "district_code": "1508",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Toms%20River%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Toms-River_NJ",
+    "zillow": "https://www.zillow.com/toms-river-nj/"
+   }
+  },
+  "lavallette": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 1089000,
+    "moe": 57966,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402939390",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402939390",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Lavallette borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.014,
+    "effective_rate": 0.619,
+    "district": "LAVALLETTE BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 61.1,
+    "district_code": "1516",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Lavallette%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Lavallette_NJ",
+    "zillow": "https://www.zillow.com/lavallette-nj/"
+   }
+  },
+  "seaside-heights": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 408200,
+    "moe": 65658,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402966450",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402966450",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Seaside Heights borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.284,
+    "effective_rate": 1.432,
+    "district": "SEASIDE HEIGHTS BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 53.03,
+    "district_code": "1527",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Seaside%20Heights%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Seaside-Heights_NJ",
+    "zillow": "https://www.zillow.com/seaside-heights-nj/"
+   }
+  },
+  "seaside-park": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 860200,
+    "moe": 64680,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402966480",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402966480",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Seaside Park borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.735,
+    "effective_rate": 1.083,
+    "district": "SEASIDE PARK BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 62.46,
+    "district_code": "1528",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Seaside%20Park%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Seaside-Park_NJ",
+    "zillow": "https://www.zillow.com/seaside-park-nj/"
+   }
+  },
+  "berkeley-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 310000,
+    "moe": 8347,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402905305",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402905305",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Berkeley township, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.59,
+    "effective_rate": 1.498,
+    "district": "BERKELEY TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 57.87,
+    "district_code": "1506",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Berkeley%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Berkeley-Township_NJ",
+    "zillow": "https://www.zillow.com/berkeley-township-nj/"
+   }
+  },
+  "barnegat-light": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 1107800,
+    "moe": 97500,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402903130",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402903130",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Barnegat Light borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.107,
+    "effective_rate": 0.594,
+    "district": "BARNEGAT LIGHT BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 53.74,
+    "district_code": "1502",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Barnegat%20Light%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Barnegat-Light_NJ",
+    "zillow": "https://www.zillow.com/barnegat-light-nj/"
+   }
+  },
+  "harvey-cedars": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 1224400,
+    "moe": 103555,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402930390",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402930390",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Harvey Cedars borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.112,
+    "effective_rate": 0.658,
+    "district": "HARVEY CEDARS BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 59.18,
+    "district_code": "1510",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Harvey%20Cedars%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Harvey-Cedars_NJ",
+    "zillow": "https://www.zillow.com/harvey-cedars-nj/"
+   }
+  },
+  "long-beach-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 1193700,
+    "moe": 56185,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402941250",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402941250",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Long Beach township, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 0.913,
+    "effective_rate": 0.665,
+    "district": "LONG BEACH TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 72.88,
+    "district_code": "1518",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Long%20Beach%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Long-Beach-Township_NJ",
+    "zillow": "https://www.zillow.com/long-beach-township-nj/"
+   }
+  },
+  "surf-city": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 1034000,
+    "moe": 85344,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402971640",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402971640",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Surf City borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.066,
+    "effective_rate": 0.65,
+    "district": "SURF CITY BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 61.05,
+    "district_code": "1532",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Surf%20City%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Surf-City_NJ",
+    "zillow": "https://www.zillow.com/surf-city-nj/"
+   }
+  },
+  "ship-bottom": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 975800,
+    "moe": 54010,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402967110",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402967110",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Ship Bottom borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.241,
+    "effective_rate": 0.702,
+    "district": "SHIP BOTTOM BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 56.61,
+    "district_code": "1529",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Ship%20Bottom%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Ship-Bottom_NJ",
+    "zillow": "https://www.zillow.com/ship-bottom-nj/"
+   }
+  },
+  "beach-haven": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 1472200,
+    "moe": 183201,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402903940",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402903940",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Beach Haven borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.426,
+    "effective_rate": 0.765,
+    "district": "BEACH HAVEN BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 53.84,
+    "district_code": "1504",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Beach%20Haven%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Beach-Haven_NJ",
+    "zillow": "https://www.zillow.com/beach-haven-nj/"
+   }
+  },
+  "point-pleasant": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 575300,
+    "moe": 28093,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402959880",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402959880",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Point Pleasant borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.424,
+    "effective_rate": 1.437,
+    "district": "POINT PLEASANT BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 59.35,
+    "district_code": "1525",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Point%20Pleasant%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Point-Pleasant_NJ",
+    "zillow": "https://www.zillow.com/point-pleasant-nj/"
+   }
+  },
+  "island-heights": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 546800,
+    "moe": 51067,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402934530",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402934530",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Island Heights borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.234,
+    "effective_rate": 1.469,
+    "district": "ISLAND HEIGHTS BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 65.79,
+    "district_code": "1511",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Island%20Heights%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Island-Heights_NJ",
+    "zillow": "https://www.zillow.com/island-heights-nj/"
+   }
+  },
+  "ocean-gate": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 358000,
+    "moe": 13892,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402954450",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402954450",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Ocean Gate borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.821,
+    "effective_rate": 1.777,
+    "district": "OCEAN GATE BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 97.63,
+    "district_code": "1522",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Ocean%20Gate%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Ocean-Gate_NJ",
+    "zillow": "https://www.zillow.com/ocean-gate-nj/"
+   }
+  },
+  "pine-beach": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 457800,
+    "moe": 10857,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402958590",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402958590",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Pine Beach borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.028,
+    "effective_rate": 1.714,
+    "district": "PINE BEACH BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 84.55,
+    "district_code": "1523",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Pine%20Beach%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Pine-Beach_NJ",
+    "zillow": "https://www.zillow.com/pine-beach-nj/"
+   }
+  },
+  "beachwood": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 352600,
+    "moe": 12466,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402904180",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402904180",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Beachwood borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.187,
+    "effective_rate": 1.789,
+    "district": "BEACHWOOD BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 56.17,
+    "district_code": "1505",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Beachwood%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Beachwood_NJ",
+    "zillow": "https://www.zillow.com/beachwood-nj/"
+   }
+  },
+  "lacey-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 409400,
+    "moe": 21854,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402937380",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402937380",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Lacey township, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.735,
+    "effective_rate": 1.771,
+    "district": "LACEY TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 64.8,
+    "district_code": "1513",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Lacey%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Lacey-Township_NJ",
+    "zillow": "https://www.zillow.com/lacey-township-nj/"
+   }
+  },
+  "ocean-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 475200,
+    "moe": 31432,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402954300",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402954300",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Ocean township, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.578,
+    "effective_rate": 1.567,
+    "district": "OCEAN TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 99.33,
+    "district_code": "1521",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Ocean%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Ocean-Township_NJ",
+    "zillow": "https://www.zillow.com/ocean-township-nj/"
+   }
+  },
+  "barnegat-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 399000,
+    "moe": 16818,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402903050",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402903050",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Barnegat township, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.083,
+    "effective_rate": 1.848,
+    "district": "BARNEGAT TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 59.96,
+    "district_code": "1501",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Barnegat%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Barnegat-Township_NJ",
+    "zillow": "https://www.zillow.com/barnegat-township-nj/"
+   }
+  },
+  "stafford-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 426200,
+    "moe": 17491,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402970320",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402970320",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Stafford township, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.623,
+    "effective_rate": 1.465,
+    "district": "STAFFORD TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 55.89,
+    "district_code": "1531",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Stafford%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Stafford-Township_NJ",
+    "zillow": "https://www.zillow.com/stafford-township-nj/"
+   }
+  },
+  "eagleswood-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 365400,
+    "moe": 38407,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402918670",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402918670",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Eagleswood township, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.987,
+    "effective_rate": 2.024,
+    "district": "EAGLESWOOD TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 67.81,
+    "district_code": "1509",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Eagleswood%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Eagleswood-Township_NJ",
+    "zillow": "https://www.zillow.com/eagleswood-township-nj/"
+   }
+  },
+  "little-egg-harbor-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 351500,
+    "moe": 14943,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402940560",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402940560",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Little Egg Harbor township, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.207,
+    "effective_rate": 1.865,
+    "district": "LITTLE EGG HARBOR TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 58.17,
+    "district_code": "1517",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Little%20Egg%20Harbor%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Little-Egg-Harbor-Township_NJ",
+    "zillow": "https://www.zillow.com/little-egg-harbor-township-nj/"
+   }
+  },
+  "tuckerton": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 349300,
+    "moe": 40143,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3402974210",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3402974210",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Tuckerton borough, Ocean County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.201,
+    "effective_rate": 1.958,
+    "district": "TUCKERTON BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 61.39,
+    "district_code": "1533",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Tuckerton%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Tuckerton_NJ",
+    "zillow": "https://www.zillow.com/tuckerton-nj/"
+   }
+  },
+  "brigantine": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 524800,
+    "moe": 56267,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400107810",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400107810",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Brigantine city, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.953,
+    "effective_rate": 1.084,
+    "district": "BRIGANTINE CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 55.57,
+    "district_code": "0103",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Brigantine%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Brigantine_NJ",
+    "zillow": "https://www.zillow.com/brigantine-nj/"
+   }
+  },
+  "atlantic-city": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 207400,
+    "moe": 17514,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400102080",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400102080",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Atlantic City city, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.38,
+    "effective_rate": 2.155,
+    "district": "ATLANTIC CITY CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 64.98,
+    "district_code": "0102",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Atlantic%20City%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Atlantic-City_NJ",
+    "zillow": "https://www.zillow.com/atlantic-city-nj/"
+   }
+  },
+  "ventnor-city": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 363000,
+    "moe": 38899,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400175620",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400175620",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Ventnor City city, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.824,
+    "effective_rate": 1.597,
+    "district": "VENTNOR CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 56.62,
+    "district_code": "0122",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Ventnor%20City%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Ventnor-City_NJ",
+    "zillow": "https://www.zillow.com/ventnor-city-nj/"
+   }
+  },
+  "margate-city": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 708800,
+    "moe": 74471,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400143890",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400143890",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Margate City city, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.787,
+    "effective_rate": 0.92,
+    "district": "MARGATE CITY CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 51.5,
+    "district_code": "0116",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Margate%20City%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Margate-City_NJ",
+    "zillow": "https://www.zillow.com/margate-city-nj/"
+   }
+  },
+  "longport": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 1088000,
+    "moe": 268052,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400141370",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400141370",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Longport borough, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.111,
+    "effective_rate": 0.698,
+    "district": "LONGPORT BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 62.9,
+    "district_code": "0115",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Longport%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Longport_NJ",
+    "zillow": "https://www.zillow.com/longport-nj/"
+   }
+  },
+  "absecon": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 286300,
+    "moe": 19074,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400100100",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400100100",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Absecon city, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.517,
+    "effective_rate": 2.41,
+    "district": "ABSECON CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 68.62,
+    "district_code": "0101",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Absecon%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Absecon_NJ",
+    "zillow": "https://www.zillow.com/absecon-nj/"
+   }
+  },
+  "pleasantville": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 194100,
+    "moe": 15965,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400159640",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400159640",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Pleasantville city, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 5.421,
+    "effective_rate": 3.392,
+    "district": "PLEASANTVILLE CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 62.81,
+    "district_code": "0119",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Pleasantville%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Pleasantville_NJ",
+    "zillow": "https://www.zillow.com/pleasantville-nj/"
+   }
+  },
+  "northfield": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 316200,
+    "moe": 22284,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400152950",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400152950",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Northfield city, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.778,
+    "effective_rate": 2.631,
+    "district": "NORTHFIELD CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 69.84,
+    "district_code": "0118",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Northfield%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Northfield_NJ",
+    "zillow": "https://www.zillow.com/northfield-nj/"
+   }
+  },
+  "linwood": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 394700,
+    "moe": 24618,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400140530",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400140530",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Linwood city, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.929,
+    "effective_rate": 2.746,
+    "district": "LINWOOD CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 69.98,
+    "district_code": "0114",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Linwood%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Linwood_NJ",
+    "zillow": "https://www.zillow.com/linwood-nj/"
+   }
+  },
+  "somers-point": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 309200,
+    "moe": 22582,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400168430",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400168430",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Somers Point city, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.722,
+    "effective_rate": 2.308,
+    "district": "SOMERS POINT CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 62.14,
+    "district_code": "0121",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Somers%20Point%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Somers-Point_NJ",
+    "zillow": "https://www.zillow.com/somers-point-nj/"
+   }
+  },
+  "egg-harbor-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 312700,
+    "moe": 12143,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400120290",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400120290",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Egg Harbor township, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.401,
+    "effective_rate": 2.284,
+    "district": "EGG HARBOR TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 67.58,
+    "district_code": "0108",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Egg%20Harbor%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Egg-Harbor-Township_NJ",
+    "zillow": "https://www.zillow.com/egg-harbor-township-nj/"
+   }
+  },
+  "galloway-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 298900,
+    "moe": 15053,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400125560",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400125560",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Galloway township, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.39,
+    "effective_rate": 2.083,
+    "district": "GALLOWAY TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 61.62,
+    "district_code": "0111",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Galloway%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Galloway-Township_NJ",
+    "zillow": "https://www.zillow.com/galloway-township-nj/"
+   }
+  },
+  "port-republic": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 462100,
+    "moe": 123670,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400160600",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400160600",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Port Republic city, Atlantic County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.804,
+    "effective_rate": 2.039,
+    "district": "PORT REPUBLIC CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 53.67,
+    "district_code": "0120",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Port%20Republic%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Port-Republic_NJ",
+    "zillow": "https://www.zillow.com/port-republic-nj/"
+   }
+  },
+  "ocean-city": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 840500,
+    "moe": 49163,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400954360",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400954360",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Ocean City city, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.16,
+    "effective_rate": 0.64,
+    "district": "OCEAN CITY CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 55.25,
+    "district_code": "0508",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Ocean%20City%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Ocean-City_NJ",
+    "zillow": "https://www.zillow.com/ocean-city-nj/"
+   }
+  },
+  "upper-township-strathmere": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 411500,
+    "moe": 19373,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400974810",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400974810",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Upper township, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.303,
+    "effective_rate": 1.437,
+    "district": "UPPER TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 62.4,
+    "district_code": "0511",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Upper%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Upper-Township_NJ",
+    "zillow": "https://www.zillow.com/upper-township-nj/"
+   }
+  },
+  "sea-isle-city": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 1087300,
+    "moe": 43074,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400966390",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400966390",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Sea Isle City city, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 0.905,
+    "effective_rate": 0.453,
+    "district": "SEA ISLE CITY CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 50.04,
+    "district_code": "0509",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Sea%20Isle%20City%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Sea-Isle-City_NJ",
+    "zillow": "https://www.zillow.com/sea-isle-city-nj/"
+   }
+  },
+  "avalon": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 1959000,
+    "moe": 146594,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400902320",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400902320",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Avalon borough, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 0.608,
+    "effective_rate": 0.348,
+    "district": "AVALON BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 57.39,
+    "district_code": "0501",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Avalon%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Avalon_NJ",
+    "zillow": "https://www.zillow.com/avalon-nj/"
+   }
+  },
+  "stone-harbor": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 2000001,
+    "moe": null,
+    "topcoded": true,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400971010",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400971010",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Stone Harbor borough, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 0.776,
+    "effective_rate": 0.413,
+    "district": "STONE HARBOR BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 53.3,
+    "district_code": "0510",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Stone%20Harbor%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Stone-Harbor_NJ",
+    "zillow": "https://www.zillow.com/stone-harbor-nj/"
+   }
+  },
+  "north-wildwood": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 459900,
+    "moe": 48992,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400953490",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400953490",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "North Wildwood city, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.585,
+    "effective_rate": 0.878,
+    "district": "NORTH WILDWOOD CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 55.56,
+    "district_code": "0507",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=North%20Wildwood%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/North-Wildwood_NJ",
+    "zillow": "https://www.zillow.com/north-wildwood-nj/"
+   }
+  },
+  "wildwood": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 391300,
+    "moe": 44915,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400981170",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400981170",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Wildwood city, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 3.084,
+    "effective_rate": 1.577,
+    "district": "WILDWOOD CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 51.42,
+    "district_code": "0514",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Wildwood%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Wildwood_NJ",
+    "zillow": "https://www.zillow.com/wildwood-nj/"
+   }
+  },
+  "wildwood-crest": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 590900,
+    "moe": 101953,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400981200",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400981200",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Wildwood Crest borough, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.447,
+    "effective_rate": 0.863,
+    "district": "WILDWOOD CREST BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 59.85,
+    "district_code": "0515",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Wildwood%20Crest%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Wildwood-Crest_NJ",
+    "zillow": "https://www.zillow.com/wildwood-crest-nj/"
+   }
+  },
+  "lower-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 364900,
+    "moe": 16201,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400941610",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400941610",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Lower township, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.018,
+    "effective_rate": 1.014,
+    "district": "LOWER TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 50.32,
+    "district_code": "0505",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Lower%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Lower-Township_NJ",
+    "zillow": "https://www.zillow.com/lower-township-nj/"
+   }
+  },
+  "cape-may": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 863900,
+    "moe": 65604,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400910270",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400910270",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Cape May city, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.093,
+    "effective_rate": 0.587,
+    "district": "CAPE MAY CITY",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 53.87,
+    "district_code": "0502",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Cape%20May%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Cape-May_NJ",
+    "zillow": "https://www.zillow.com/cape-may-nj/"
+   }
+  },
+  "cape-may-point": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 1050000,
+    "moe": 108837,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400910330",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400910330",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Cape May Point borough, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 0.766,
+    "effective_rate": 0.416,
+    "district": "CAPE MAY POINT BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 54.27,
+    "district_code": "0503",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Cape%20May%20Point%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Cape-May-Point_NJ",
+    "zillow": "https://www.zillow.com/cape-may-point-nj/"
+   }
+  },
+  "west-wildwood": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 400800,
+    "moe": 45048,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400980210",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400980210",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "West Wildwood borough, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.07,
+    "effective_rate": 1.036,
+    "district": "WEST WILDWOOD BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 50.07,
+    "district_code": "0513",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=West%20Wildwood%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/West-Wildwood_NJ",
+    "zillow": "https://www.zillow.com/west-wildwood-nj/"
+   }
+  },
+  "west-cape-may": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 751100,
+    "moe": 65948,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400978530",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400978530",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "West Cape May borough, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 1.444,
+    "effective_rate": 0.69,
+    "district": "WEST CAPE MAY BORO",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 47.81,
+    "district_code": "0512",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=West%20Cape%20May%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/West-Cape-May_NJ",
+    "zillow": "https://www.zillow.com/west-cape-may-nj/"
+   }
+  },
+  "middle-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 342200,
+    "moe": 20370,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400945810",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400945810",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Middle township, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.082,
+    "effective_rate": 1.388,
+    "district": "MIDDLE TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 66.72,
+    "district_code": "0506",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Middle%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Middle-Township_NJ",
+    "zillow": "https://www.zillow.com/middle-township-nj/"
+   }
+  },
+  "dennis-township": {
+   "checked": "2026-10-17",
+   "median_home_value": {
+    "value": 360400,
+    "moe": 17497,
+    "topcoded": false,
+    "label": "Median value, owner-occupied homes (ACS 2020–2024 5-year, table B25077)",
+    "source": "https://data.census.gov/table/ACSDT5Y2024.B25077?g=060XX00US3400917560",
+    "via": "https://censusreporter.org/data/table/?table=B25077&geo_ids=06000US3400917560",
+    "source_label": "U.S. Census Bureau, ACS 5-year table B25077",
+    "year": "2020–2024",
+    "geo": "Dennis township, Cape May County, NJ"
+   },
+   "tax": {
+    "year": 2025,
+    "general_rate": 2.145,
+    "effective_rate": 1.395,
+    "district": "DENNIS TWP",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf",
+    "source_label": "NJ Division of Taxation — 2025 General & Effective Tax Rates"
+   },
+   "ratio": {
+    "tax_year": 2025,
+    "average_ratio": 65.06,
+    "district_code": "0504",
+    "source": "https://www.nj.gov/treasury/taxation/pdf/lptval/2024/2024TEV.pdf",
+    "source_label": "NJ Division of Taxation — Table of Equalized Valuations (certified Oct 1, 2024, for tax year 2025)"
+   },
+   "flood_map": {
+    "url": "https://msc.fema.gov/portal/search?AddressQuery=Dennis%20Township%2C%20NJ",
+    "label": "FEMA Flood Map Service Center"
+   },
+   "nj_flood_risk": {
+    "url": "https://njfloodmapper.org/",
+    "label": "NJ Flood Mapper (Rutgers / NJ DEP partners)"
+   },
+   "search_links": {
+    "realtor": "https://www.realtor.com/realestateandhomes-search/Dennis-Township_NJ",
+    "zillow": "https://www.zillow.com/dennis-township-nj/"
+   }
+  }
+ }
+}
