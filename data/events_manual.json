@@ -1,0 +1,5 @@
+[
+ {"town": "linwood", "title": "Fall Festival", "start": "2026-10-24", "time": "4pm to 7pm", "venue": "All Wars Memorial Park",
+  "url": "http://www.linwoodcity.org/main/events.asp", "source": "http://www.linwoodcity.org/main/events.asp",
+  "source_label": "City of Linwood events page", "fetched": "2026-10-17", "note": "Hand-checked on the official page (automated fetch blocked from build box)"}
+]

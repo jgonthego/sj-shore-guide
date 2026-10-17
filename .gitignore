@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+# research caches (third-party pages / PDFs) — keep only scripts and small json
+research/*.html
+research/*.pdf
+research/*.txt
+research/*.wiki
+research/events/*
+!research/events/*.py
+!research/urls.txt

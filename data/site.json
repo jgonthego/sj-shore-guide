@@ -1,0 +1,14 @@
+{
+  "site_name": "Shore Town Guide",
+  "tagline": "South Jersey shore towns, beach tags, dogs, lifeguards & events — every fact sourced.",
+  "region": "South Jersey Shore (Ocean, Atlantic & Cape May counties)",
+  "author": "South Jersey Shore Town Guide",
+  "default_site_url": "https://example.github.io",
+  "form_endpoint_template": "https://formspree.io/f/{FORM_ID}",
+  "sponsor": {
+    "enabled": true,
+    "placeholder": true,
+    "text": "Featured local business slot — placeholder. No business is featured or endorsed yet."
+  },
+  "season_note": "It's the off-season. Badge prices shown are for the 2026 summer season (most tag seasons ended Labor Day, Sept. 7, 2026). Most towns haven't announced 2027 prices yet — exceptions are noted on each town page."
+}
