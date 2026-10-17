@@ -253,7 +253,7 @@ def page(path, title, desc, body, *, active="", jsonld=None):
 <title>{e(full_title)}</title>
 <meta name="description" content="{e(desc)}">
 <link rel="canonical" href="{e(canonical)}">
-<meta name="theme-color" content="#1a0b3d">
+<meta name="theme-color" content="#060a13">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{e(SITE['site_name'])}">
 <meta property="og:title" content="{e(full_title)}">
