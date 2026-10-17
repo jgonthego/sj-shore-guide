@@ -53,7 +53,7 @@ Towns post new prices between January and May, and preseason discounts usually e
 4. Source tiers: `official` (town site, municipal code on eCode360, county) >
    `tourism` (official tourism bureau) > `news` (only for `*_reported` fields, shown with a warning).
    Never fill a fact from memory or an unofficial site.
-5. Status is recomputed by build rules: **verified** = badge, free_beach, lifeguards, dogs and
+5. Set each town's `status` (and `coverage` note) in `data/towns.json` by these rules: **verified** = badge, free_beach, lifeguards, dogs and
    alcohol all from official/tourism sources; **partial** = some; **reported** = only news;
    **stub** = nothing. Promote stubs by adding official facts.
 6. Re-check the known discrepancies noted on town pages (Stone Harbor daily $10 vs $8,
@@ -71,7 +71,7 @@ Towns post new prices between January and May, and preseason discounts usually e
 * Verify Ocean County (15 ocean towns now "news-reported only" from Patch's 2026 guide).
 * Fill the bay-town stubs (Linwood, Northfield, Absecon, Pleasantville, etc.) — most have no
   guarded ocean beach, so mainly bay beaches, parks, parking and events calendars.
-* Add official tourism links (only Wildwoods currently have one).
+* Add official tourism links (only Sea Isle City and the three Wildwoods have one now).
 * Missing facts: Atlantic City dogs/parking, Longport & Cape May Point alcohol, many parking rules.
 
 ## Settings
