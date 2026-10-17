@@ -176,6 +176,9 @@ def _wheel():
 
 
 WHEEL = _wheel()
+# slug -> [lat, lon, short name], used client-side by assets/weather.js to pick the weather location
+TOWNS_GEO_JSON = json.dumps({t["slug"]: [t["geo"]["lat"], t["geo"]["lon"], short_town(t["name"])] for t in TOWNS if t.get("geo")},
+                            separators=(",", ":")).replace("</", "<\\/")
 WAVES = ('<svg class="waves" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true">'
          '<path d="M0 60 C 120 20 240 100 360 60 S 600 20 720 60 S 960 100 1080 60 S 1320 20 1440 60 V120 H0Z" fill="#00c2d1" stroke="#111" stroke-width="4"/>'
          '<path d="M0 88 C 120 58 240 118 360 88 S 600 58 720 88 S 960 118 1080 88 S 1320 58 1440 88 V120 H0Z" fill="#fff4dc"/></svg>')
@@ -236,7 +239,7 @@ def footer():
       </ul>
     </div>
   </div>
-  <div class="wrap small foot-bottom">Built {TODAY.isoformat()} · Events refreshed {fmt_date(EVDATA.get('generated', TODAY.isoformat()))} · Map data © OpenStreetMap contributors · No ads, no trackers.</div>
+  <div class="wrap small foot-bottom">Built {TODAY.isoformat()} · Events refreshed {fmt_date(EVDATA.get('generated', TODAY.isoformat()))} · Map data © OpenStreetMap contributors · Live weather from the <a href="https://www.weather.gov/documentation/services-web-api" rel="noopener">National Weather Service</a> (public domain; not endorsed by NOAA/NWS) · No ads, no trackers.</div>
 </footer>"""
 
 
@@ -278,7 +281,9 @@ def page(path, title, desc, body, *, active="", jsonld=None):
 {body}
 </main>
 {footer()}
+<script type="application/json" id="sj-towns">{TOWNS_GEO_JSON}</script>
 <script src="{u('assets/app.js')}" defer></script>
+<script src="{u('assets/weather.js')}" defer></script>
 </body>
 </html>"""
     dest = OUT / path / "index.html" if (path.endswith("/") or path == "") else OUT / path
@@ -519,11 +524,12 @@ def build_home():
     ws, we = weekend_range(TODAY)
     n_wk = sum(1 for ev in EITEMS if dt.date.fromisoformat(ev["start"]) <= we and _end(ev) >= ws)
     body = f"""
-<section class="hero">
+<section class="hero" data-wx-hero>
   {WHEEL}
   <div class="wrap hero-in">
     <p class="eyebrow"><span class="sticker">Down the shore</span> Ocean · Atlantic · Cape May</p>
     <h1><span class="neon">What's going on</span> <span class="neon neon-pink">at the shore?</span></h1>
+    <p class="wx-chip" data-wxchip hidden></p>
     <p class="lead">Festivals, boardwalks, lighthouses, breweries, bonfires and what's happening this weekend near you. Pulled from official calendars, with every listing sourced. No made-up stuff.</p>
     {ask_ai('hero')}
     <ul class="stats">
@@ -930,6 +936,8 @@ def build_about():
 <p><strong>Facebook:</strong> Facebook events require a login, and Facebook's terms prohibit automated collection, so we don't scrape them. Where we've verified a town's official Facebook page, the town page links to it as "More on Facebook" (link only). <strong>Not used yet:</strong> casino and arena calendars (Boardwalk Hall, Hard Rock and others) and the Atlantic City and Cape May County tourism calendars load their events through scripts or token-protected APIs, so we skip them. We don't scrape Eventbrite either.</p>
 <h2>Distances</h2>
 <p>Distances are <strong>approximate straight-line miles</strong> (haversine formula) from the centre of your chosen town (OpenStreetMap / Nominatim) or from your device location. Your location is used only in your browser and never sent anywhere. These are not driving distances or drive times. Events without a venue location are measured from their town centre.</p>
+<h2>Live weather background</h2>
+<p>The sky behind the homepage (sun, stars, clouds, rain, snow, fog, storms) follows the current conditions near your chosen town. Your browser asks the US {ext("https://www.weather.gov/documentation/services-web-api", "National Weather Service API")} (<code>api.weather.gov</code>) for the latest observation at the nearest NWS station, falling back to the hourly forecast. It's public-domain data, free, with no API key. Only the town's coordinates are sent, never your device location. Results are cached in your browser for 15 minutes. If the request fails, you get the plain night-sky look. Weather is for decoration: check {ext("https://www.weather.gov/phi/", "NWS Mount Holly")} for real forecasts and warnings. Not endorsed by NOAA/NWS.</p>
 <h2>Ask Google AI</h2>
 <p>The "Ask Google AI" box opens Google's AI Mode (<code>google.com/search?udm=50</code>) in a new tab with your question plus "South Jersey shore". Nothing is embedded, no API keys are used, and we don't check Google's answers.</p>
 <h2>Beach rules: what the labels mean</h2>

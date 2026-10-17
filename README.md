@@ -26,3 +26,16 @@ Town list: Wikipedia "Jersey Shore" § Beaches (ocean towns) plus each county's 
 list (bay towns). Official URLs from Wikipedia infoboxes, checked by hand.
 
 Not affiliated with any municipality. Rules change. Always check the official town source.
+
+## Live weather background
+
+`src/weather.js` tints the homepage hero (and inner page heroes) to match current conditions near
+the visitor's chosen "from" town (`?from=` or the distance filter's saved town; default Linwood):
+clear day/night, partly cloudy, cloudy, rain, thunderstorms, snow, fog, and windy (faster
+ferris wheel and clouds). Data comes from the US National Weather Service API (`api.weather.gov`,
+public domain, free for any purpose, no key, CORS `*`): `/points` → nearest stations (cached 7
+days) → `/stations/{id}/observations/latest`, falling back to the hourly forecast. Results are cached in
+localStorage for 15 minutes. On error the page keeps the static Dark Glass look. Animations stop
+under `prefers-reduced-motion` and pause when the tab is hidden or the hero is off-screen.
+Preview any scene with `?wx=clear-day|clear-night|partly|cloudy|rain|storm|snow|fog|windy|off`
+(combine with commas or dashes, e.g. `?wx=rain-night`, `?wx=cloudy,windy`).

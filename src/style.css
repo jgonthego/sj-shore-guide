@@ -98,7 +98,7 @@ h3{font-size:1.1rem;letter-spacing:-.015em}
 .wheel path{stroke:rgba(255,255,255,.4)}
 .wheel-spin circle,.wheel-spin line{fill:none!important;stroke:var(--teal)!important;stroke-width:1.5!important}
 .wheel-spin circle:nth-of-type(2){stroke:var(--coral)!important}
-.wheel-spin{transform-origin:100px 100px;animation:spin 80s linear infinite}
+.wheel-spin{transform-origin:100px 100px;transform-box:view-box;animation:spin var(--wheel-dur,60s) linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
 @media(min-width:900px){.wheel{right:3%;top:56px;width:380px;opacity:.38}}
 .stats{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;list-style:none;padding:0;margin:30px 0 0;max-width:680px}
@@ -346,7 +346,8 @@ table.cmp{border-collapse:collapse;width:100%;min-width:760px;font-size:.92rem}
 .footlinks li{margin:0 0 8px}
 .foot-bottom{border-top:1px solid var(--line);padding:16px 20px 26px;color:var(--dim)}
 
-@media(prefers-reduced-motion:reduce){.wheel-spin,.marquee>div{animation:none}*{transition:none!important}}
+@media(prefers-reduced-motion:reduce){.wheel-spin,.marquee>div{animation:none}*{transition:none!important}
+  .wx *,.wx *::before,.wx *::after{animation:none!important}.wx-flash{display:none}}
 @media(max-width:520px){
   .brand strong{font-size:.9rem}.brand small{display:none}.brand .logo{width:34px;height:34px}
   .hero{padding-top:40px}
@@ -366,3 +367,93 @@ h1 svg,h2 svg,h3 svg{width:1em;height:1em;vertical-align:-.12em}
 .card svg,.sec svg{max-height:4em}
 .wheel svg,svg.wheel,.waves{max-height:none}
 .cmp td:first-child{min-width:160px}
+
+/* ---------- live weather background (assets/weather.js, NWS data) ----------
+   html[data-wx] = clear|partly|cloudy|rain|storm|snow|fog, [data-wx-night]=1|0, [data-wx-windy]=1|0.
+   No data-wx (offline/error/no JS) = the static Dark Glass hero above. */
+.wx{position:absolute;inset:0;z-index:-2;pointer-events:none;overflow:hidden;opacity:0;transition:opacity 1.2s ease}
+html[data-wx] .wx{opacity:1}
+.wx>*{position:absolute}
+.wx-sky,.wx-scrim,.wx-cv,.wx-flash{inset:0}
+.wx-sky{transition:background 1s}
+.wx-scrim{background:linear-gradient(90deg,rgba(6,10,19,.55) 0%,rgba(6,10,19,.30) 45%,rgba(6,10,19,0) 75%),linear-gradient(180deg,rgba(6,10,19,0) 55%,rgba(6,10,19,.65) 100%)}
+.wx-sun,.wx-moon,.wx-stars,.wx-clouds,.wx-fog,.wx-flash,.wx-cv{display:none}
+html[data-wx-windy="1"]{--wheel-dur:22s;--wxk:.45}
+:root{--wxk:1}
+/* skies */
+html[data-wx="clear"][data-wx-night="0"] .wx-sky{background:radial-gradient(900px 520px at 78% 8%,rgba(255,178,102,.45),transparent 60%),linear-gradient(180deg,#1a4f8f 0%,#2a66a8 34%,#4f6f9a 60%,#a8705e 86%,#4a2d2c 100%)}
+html[data-wx="partly"][data-wx-night="0"] .wx-sky{background:radial-gradient(800px 480px at 78% 10%,rgba(255,190,120,.30),transparent 60%),linear-gradient(180deg,#1d4a80 0%,#2d5d92 45%,#56637e 80%,#2a2f42 100%)}
+html[data-wx="cloudy"] .wx-sky{background:linear-gradient(180deg,#2c3a4e 0%,#25303f 50%,#141b27 100%)}
+html[data-wx="rain"] .wx-sky{background:linear-gradient(180deg,#1f2b3b 0%,#18212e 55%,#0b1019 100%)}
+html[data-wx="storm"] .wx-sky{background:radial-gradient(700px 400px at 70% 0%,rgba(120,110,170,.22),transparent 65%),linear-gradient(180deg,#141a28 0%,#0f141f 55%,#070a12 100%)}
+html[data-wx="snow"] .wx-sky{background:linear-gradient(180deg,#34465e 0%,#273449 50%,#121a28 100%)}
+html[data-wx="fog"] .wx-sky{background:linear-gradient(180deg,#3a434f 0%,#2a313c 50%,#131820 100%)}
+html[data-wx="clear"][data-wx-night="1"] .wx-sky,html[data-wx="partly"][data-wx-night="1"] .wx-sky{background:radial-gradient(600px 400px at 74% 12%,rgba(160,180,255,.14),transparent 60%),linear-gradient(180deg,#030715 0%,#071030 50%,#060a13 100%)}
+html[data-wx][data-wx-night="1"]:not([data-wx="clear"]):not([data-wx="partly"]) .wx-sky::after{content:"";position:absolute;inset:0;background:rgba(2,4,10,.5)}
+/* sun */
+html[data-wx="clear"][data-wx-night="0"] .wx-sun,html[data-wx="partly"][data-wx-night="0"] .wx-sun{display:block}
+.wx-sun{width:520px;height:520px;right:calc(3% + 190px - 260px);top:-80px;border-radius:50%;
+  background:radial-gradient(circle,rgba(255,236,190,.95) 0 34px,rgba(255,200,120,.55) 46px,rgba(255,150,90,.20) 120px,rgba(255,122,102,.06) 200px,transparent 260px);animation:wxpulse 9s ease-in-out infinite alternate}
+html[data-wx="partly"] .wx-sun{opacity:.75}
+@keyframes wxpulse{to{transform:scale(1.06);opacity:.85}}
+/* night: stars + moon */
+html[data-wx-night="1"][data-wx="clear"] .wx-stars,html[data-wx-night="1"][data-wx="partly"] .wx-stars,
+html[data-wx-night="1"][data-wx="clear"] .wx-moon,html[data-wx-night="1"][data-wx="partly"] .wx-moon{display:block}
+.wx-stars{inset:0}
+.wx-stars i{position:absolute;left:0;top:0;width:1px;height:1px;border-radius:50%;animation:wxtw 5s ease-in-out infinite alternate}
+.wx-stars i+i{animation-delay:-2.5s;animation-duration:7s}
+html[data-wx="partly"] .wx-stars{opacity:.55}
+@keyframes wxtw{from{opacity:1}to{opacity:.35}}
+.wx-moon{width:58px;height:58px;border-radius:50%;right:calc(3% + 420px);top:64px;box-shadow:inset 17px -7px 0 0 #f2eedf,0 0 46px 10px rgba(255,244,214,.12)}
+/* clouds */
+html[data-wx="partly"] .wx-clouds,html[data-wx="cloudy"] .wx-clouds,html[data-wx="rain"] .wx-clouds,html[data-wx="storm"] .wx-clouds,html[data-wx="snow"] .wx-clouds{display:block}
+.wx-clouds{inset:0}
+.wx-clouds i{position:absolute;left:0;width:420px;height:130px;border-radius:50%;opacity:.5;filter:blur(10px);
+  background:radial-gradient(closest-side at 30% 60%,rgba(220,230,245,.55),transparent),radial-gradient(closest-side at 55% 40%,rgba(230,238,250,.6),transparent),radial-gradient(closest-side at 78% 62%,rgba(210,220,238,.5),transparent);
+  animation:wxdrift calc(var(--d,90s) * var(--wxk)) linear infinite;animation-delay:calc(var(--o,0s) * var(--wxk))}
+.wx-clouds i:nth-child(1){top:4%;--d:110s;--o:-20s}
+.wx-clouds i:nth-child(2){top:22%;--d:140s;--o:-90s;transform:scale(.8)}
+.wx-clouds i:nth-child(3){top:44%;--d:120s;--o:-55s;width:520px}
+.wx-clouds i:nth-child(4){top:12%;--d:100s;--o:-70s;width:560px}
+.wx-clouds i:nth-child(5){top:60%;--d:130s;--o:-10s}
+.wx-clouds i:nth-child(6){top:32%;--d:95s;--o:-40s;width:480px}
+.wx-clouds i:nth-child(7){top:-6%;--d:150s;--o:-120s;width:640px;height:180px}
+html[data-wx="partly"] .wx-clouds i:nth-child(n+4){display:none}
+html[data-wx="partly"] .wx-clouds i{opacity:.42}
+html[data-wx="cloudy"] .wx-clouds i{opacity:.45}
+html[data-wx="rain"] .wx-clouds i,html[data-wx="storm"] .wx-clouds i{opacity:.3;filter:blur(14px) brightness(.7)}
+html[data-wx="snow"] .wx-clouds i{opacity:.28}
+html[data-wx-night="1"] .wx-clouds i{filter:blur(12px) brightness(.55)}
+@keyframes wxdrift{from{transform:translateX(-640px)}to{transform:translateX(calc(100vw + 40px))}}
+/* fog */
+html[data-wx="fog"] .wx-fog{display:block}
+.wx-fog{inset:0}
+.wx-fog i{position:absolute;left:0;width:200%;height:220px;filter:blur(22px);opacity:.9;border-radius:50%;
+  background:repeating-linear-gradient(90deg,rgba(215,224,236,.06) 0,rgba(215,224,236,.34) 14%,rgba(215,224,236,.14) 30%,rgba(215,224,236,.30) 40%,rgba(215,224,236,.06) 50%);
+  animation:wxfog calc(var(--d,80s) * var(--wxk)) linear infinite}
+.wx-fog i:nth-child(1){top:12%;--d:90s}
+.wx-fog i:nth-child(2){top:38%;--d:70s;animation-direction:reverse;opacity:.7}
+.wx-fog i:nth-child(3){top:64%;--d:110s;opacity:.95}
+@keyframes wxfog{to{transform:translateX(-50%)}}
+/* rain / snow canvas + storm flash */
+html[data-wx="rain"] .wx-cv,html[data-wx="storm"] .wx-cv,html[data-wx="snow"] .wx-cv{display:block}
+html[data-wx="storm"] .wx-flash{display:block}
+.wx-flash{opacity:0;background:radial-gradient(900px 500px at 68% 0%,rgba(200,215,255,.55),rgba(200,215,255,.12) 50%,transparent 75%);animation:wxflash 14s linear infinite 3s}
+@keyframes wxflash{0%,86%{opacity:0}86.6%{opacity:.5}87.2%{opacity:.08}88%{opacity:.36}89.5%,100%{opacity:0}}
+html.wx-paused .wx *{animation-play-state:paused}
+/* inner page heroes get the sky, a little quieter */
+.phero .wx,.thero .wx{opacity:0}
+html[data-wx] .phero .wx,html[data-wx] .thero .wx{opacity:.85}
+.phero .wx-sun,.thero .wx-sun{right:-120px;top:-160px}
+.phero .wx-moon,.thero .wx-moon{right:12%;top:36px}
+/* page-wide tint so the whole page follows the sky */
+html[data-wx="clear"][data-wx-night="0"] body{background-image:radial-gradient(900px 600px at 100% 0%,rgba(255,170,90,.12),transparent 60%),radial-gradient(700px 500px at 0% 40%,rgba(46,230,201,.07),transparent 60%),radial-gradient(800px 600px at 100% 90%,rgba(255,122,102,.08),transparent 60%)}
+html[data-wx="rain"] body,html[data-wx="storm"] body,html[data-wx="cloudy"] body,html[data-wx="fog"] body{background-image:radial-gradient(900px 600px at 100% 0%,rgba(150,165,190,.10),transparent 60%),radial-gradient(700px 500px at 0% 40%,rgba(94,182,255,.06),transparent 60%)}
+html[data-wx="snow"] body{background-image:radial-gradient(900px 600px at 100% 0%,rgba(200,220,255,.12),transparent 60%),radial-gradient(700px 500px at 0% 40%,rgba(46,230,201,.05),transparent 60%)}
+/* weather chip */
+.wx-chip{margin:-6px 0 20px}
+.wx-chip a{display:inline-flex;align-items:center;gap:8px;padding:6px 14px 6px 10px;border-radius:999px;font-size:.86rem;font-weight:500;color:#eef3fa;text-decoration:none;
+  background:rgba(6,10,19,.55);border:1px solid var(--line2);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);transition:border-color .2s}
+.wx-chip a:hover{border-color:rgba(46,230,201,.6);color:#fff}
+.wx-chip svg{width:18px;height:18px;flex:none;fill:none;stroke:var(--sun);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+@media(max-width:899px){.wx-sun{right:-200px;top:-180px}.wx-moon{right:28px;top:22px}}
