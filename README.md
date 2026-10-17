@@ -14,7 +14,7 @@ python3 -m http.server 8000 -d docs
 ```
 
 No dependencies beyond Python 3.9+. No CDNs, trackers or external fonts.
-Deployment: `.github/workflows/pages.yml` (GitHub Pages; set `BASE_PATH` and `SITE_URL`).
+Live: https://jgonthego.github.io/sj-shore-guide/ — deployed by `.github/workflows/pages.yml`, which runs `build.py` in CI. `docs/` is build output and is not committed.
 See `MAINTENANCE.md` for the weekly and yearly update routine.
 
 Town list: Wikipedia "Jersey Shore" § Beaches (ocean towns) plus each county's municipality

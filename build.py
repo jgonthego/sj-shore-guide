@@ -120,7 +120,7 @@ def page(path, title, desc, body, *, active="", jsonld=None, extra_head=""):
 <a class="skip" href="#main">Skip to content</a>
 <header class="topbar">
   <div class="wrap topbar-in">
-    <a class="brand" href="{u()}">{LOGO}<span><strong>{e(SITE['site_name'])}</strong><small>South Jersey Shore</small></span></a>
+    <a class="brand" href="{u()}">{LOGO}<span><strong>{e(SITE['site_name'])}</strong><small>Ocean · Atlantic · Cape May</small></span></a>
     <button class="navtoggle" aria-expanded="false" aria-controls="nav">Menu</button>
     <nav id="nav" class="nav">{navhtml}</nav>
   </div>
@@ -145,7 +145,7 @@ def footer():
     return f"""<footer class="footer">
   <div class="wrap footer-grid">
     <div>
-      <a class="brand brand-foot" href="{u()}">{LOGO}<span><strong>{e(SITE['site_name'])}</strong><small>South Jersey Shore</small></span></a>
+      <a class="brand brand-foot" href="{u()}">{LOGO}<span><strong>{e(SITE['site_name'])}</strong><small>Ocean · Atlantic · Cape May</small></span></a>
       <p class="muted">An independent, volunteer-built guide. Not affiliated with any municipality, county, tourism authority or the State of New Jersey.</p>
     </div>
     <div>

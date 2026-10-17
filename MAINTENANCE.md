@@ -1,7 +1,7 @@
 # Maintenance guide — Shore Town Guide
 
 All content lives in `data/`. `build.py` turns it into the static site in `docs/`.
-Never hand-edit `docs/`; it is regenerated on every build.
+`docs/` is build output: it is git-ignored and GitHub Actions rebuilds it on every push to `main`.
 
 | File | What it holds |
 |---|---|
@@ -16,7 +16,7 @@ Never hand-edit `docs/`; it is regenerated on every build.
 python3 scripts/fetch_events.py     # pulls official calendars, 75-day window
 python3 build.py                    # rebuilds docs/
 python3 -m http.server 8000 -d docs # look at / and /events/
-git add data docs && git commit -m "Weekly events refresh $(date +%F)"
+git add data && git commit -m "Weekly events refresh $(date +%F)"
 ```
 
 * The fetch prints a per-source report. If a source fails, its last good events are kept
@@ -35,7 +35,7 @@ git add data docs && git commit -m "Weekly events refresh $(date +%F)"
   with browser dev tools → Network), `civicplus_rss` (`/RSSFeed.aspx?ModID=58&CID=All-calendar.xml`),
   `linwood_asp`. Only use **official** town or tourism-bureau calendars.
 * The GitHub Actions workflow also re-fetches events on its weekly schedule when deployed.
-  It does not commit the result, so still commit after a local refresh.
+  It does not commit the result, so still commit `data/events.json` after a local refresh (pushing to `main` redeploys).
 
 ## Each spring (March–May): badge prices and summer rules
 

@@ -23,7 +23,7 @@ env:
   # Project sites live under /<repo-name>. Use "" for a custom domain or a <user>.github.io repo.
   BASE_PATH: /sj-shore-guide
   PATH_PREFIX: /sj-shore-guide   # alias read by build.py if BASE_PATH is empty
-  SITE_URL: https://YOUR-USER.github.io
+  SITE_URL: https://jgonthego.github.io
   # Optional: set repository variable FORM_ID (e.g. a Formspree form id) to enable the signup form.
   FORM_ID: ${{ vars.FORM_ID }}
 

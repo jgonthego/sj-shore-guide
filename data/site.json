@@ -1,9 +1,9 @@
 {
-  "site_name": "Shore Town Guide",
+  "site_name": "South Jersey Shore Town Guide",
   "tagline": "South Jersey shore towns, beach tags, dogs, lifeguards & events — every fact sourced.",
   "region": "South Jersey Shore (Ocean, Atlantic & Cape May counties)",
   "author": "South Jersey Shore Town Guide",
-  "default_site_url": "https://example.github.io",
+  "default_site_url": "https://jgonthego.github.io",
   "form_endpoint_template": "https://formspree.io/f/{FORM_ID}",
   "sponsor": {
     "enabled": true,
