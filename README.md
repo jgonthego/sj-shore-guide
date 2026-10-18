@@ -18,7 +18,7 @@ python3 build.py                  # generates docs/
 python3 -m http.server 8000 -d docs
 ```
 
-No dependencies beyond Python 3.9+. No CDNs, trackers or external fonts.
+No dependencies beyond Python 3.9+. No CDNs or external fonts; anonymous GoatCounter visit counts only.
 Live: https://jgonthego.github.io/sj-shore-guide/ — deployed by `.github/workflows/pages.yml`, which runs `build.py` in CI. `docs/` is build output and is not committed.
 See `MAINTENANCE.md` for the weekly and yearly update routine.
 

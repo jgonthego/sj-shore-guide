@@ -239,7 +239,7 @@ def footer():
       </ul>
     </div>
   </div>
-  <div class="wrap small foot-bottom">Built {TODAY.isoformat()} · Events refreshed {fmt_date(EVDATA.get('generated', TODAY.isoformat()))} · Map data © OpenStreetMap contributors · Live weather from the <a href="https://www.weather.gov/documentation/services-web-api" rel="noopener">National Weather Service</a> (public domain; not endorsed by NOAA/NWS) · No ads, no trackers.</div>
+  <div class="wrap small foot-bottom">Built {TODAY.isoformat()} · Events refreshed {fmt_date(EVDATA.get('generated', TODAY.isoformat()))} · Map data © OpenStreetMap contributors · Live weather from the <a href="https://www.weather.gov/documentation/services-web-api" rel="noopener">National Weather Service</a> (public domain; not endorsed by NOAA/NWS) · No ads, no cookies, no cross-site tracking · anonymous visit counts via GoatCounter</div>
 </footer>"""
 
 
@@ -284,6 +284,8 @@ def page(path, title, desc, body, *, active="", jsonld=None):
 <script type="application/json" id="sj-towns">{TOWNS_GEO_JSON}</script>
 <script src="{u('assets/app.js')}" defer></script>
 <script src="{u('assets/weather.js')}" defer></script>
+<script>window.goatcounter={{path:function(){{return location.pathname||'/'}}}}</script>
+<script data-goatcounter="https://jgonthego.goatcounter.com/count" async src="{u('assets/gc.js')}"></script>
 </body>
 </html>"""
     dest = OUT / path / "index.html" if (path.endswith("/") or path == "") else OUT / path
